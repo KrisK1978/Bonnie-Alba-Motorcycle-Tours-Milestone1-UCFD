@@ -1,0 +1,36 @@
+/***---IMPORTING FONTS STYLE---***/
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC|Indie+Flower&display=swap');
+
+
+/***---BODY STYLING---***/
+
+body {
+    background: #d3d3d3;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+.navbar-nav {
+    font-size: 1.3em;
+    font-family: 'Indie Flower', sans-serif;
+}
+
+
+
+
+.btn {
+    font-size: 1.2em;
+    color: #fafafa;
+    transition: all .4s ease-in-out;
+   -moz-transition: all .4s ease-in-out;
+   -webkit-transition: all .4s ease-in-out;
+   -o-transition: all .4s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #dc143c;
+}
