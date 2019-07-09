@@ -36,7 +36,7 @@ body {
 /***---STYLING HOME CONTENT---***/
 .home {
      background-attachment: fixed;
-     background-image: url('../images/section/home.jpg');
+     background-image: url('../images/section/Home.jpg');
      background-position: bottom;
      background-size: cover;
      margin-bottom: 0;
@@ -67,11 +67,27 @@ body {
 }
 
 
+/***---ADDING STYLE TO GALLERY---***/
+
+.gallery {
+     background-attachment: fixed;
+     background-image: url('../images/section/.jpg');
+     background-position: bottom;
+     background-size: cover;
+     margin-bottom: 0;
+     height: 99vh;
+     width: 99vw;
+     z-index: 1;
+}
+
+
+
+
 /***---STYLING CONTACT FORM---***/
 
 .contact {
      background-attachment: fixed;
-     background-image: url('../images/section/contact.jpg');
+     background-image: url('../images/section/Contact.jpg');
      background-position: bottom;
      background-size: cover;
      margin-bottom: 0;
