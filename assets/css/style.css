@@ -33,3 +33,66 @@ body {
 .btn:hover {
     background-color: #dc143c;
 }
+
+
+/***---ADDING STYLES TO FOOTER---***/
+
+.myfooter {
+    position: relative;
+    width: 100vw;
+    background-color: #dcdcdc;
+}
+
+.social-media i {
+    float: right;
+    margin: 1% 2% 0 0;
+    font-size: 1.3em;
+    color: #2f4f4f;
+    border: 7px solid #f8f8ff;
+    border-radius: 50px;
+    box-shadow: 0 30px 20px rgba(0, 0, 0, 0.5);
+    transition: all .4s ease-in-out;
+   -moz-transition: all .4s ease-in-out;
+   -webkit-transition: all .4s ease-in-out;
+   -o-transition: all .4s ease-in-out;
+}
+
+/***---APPLYING INDIVIDUAL COLOR TO SOCIAL MEDIA LINKS ICONS WHEN USING HOVER---***/
+
+.fa-pinterest-square:hover {
+    transform: scale(1.3);
+    background-color: #7fffd4; 
+}
+
+.fa-facebook-square:hover {
+    transform: scale(1.3);
+    background-color: #da70d6; 
+}
+
+.fa-instagram:hover {
+    transform: scale(1.3);
+    background-color: #d2691e; 
+}
+
+.fa-github-alt:hover {
+    transform: scale(1.3);
+    background-color: #adff2f; 
+}
+
+.fa-linkedin:hover {
+    transform: scale(1.3);
+    background-color: #ffff00; 
+}
+
+/***---APPLYING STYLE TO COPYRIGHT TEXT---***/
+
+.copyright {
+    float: left;
+    margin-left: 1%;
+    font-size: 1em;
+    font-family: 'Indie Flower', sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    color: #2f4f4f;
+}
+
