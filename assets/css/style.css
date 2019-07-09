@@ -82,7 +82,7 @@ body {
 
 .contactus {
     margin: 6px 10px 0 10px;
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-weight: bold;
     font-family: 'Indie Flower', sans-serif;
     color: #fafafa;
@@ -130,13 +130,12 @@ body {
 }
 
 .social-media i {
-    float: right;
     margin: 1% 2% 0 0;
     font-size: 1.1em;
     color: #2f4f4f;
     border: 7px solid #f8f8ff;
     border-radius: 50px;
-    box-shadow: 0 30px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 30px 20px rgba(0, 0, 0, 0.3);
     transition: all .4s ease-in-out;
    -moz-transition: all .4s ease-in-out;
    -webkit-transition: all .4s ease-in-out;
@@ -173,7 +172,7 @@ body {
 /***---APPLYING STYLE TO COPYRIGHT TEXT---***/
 
 .copyright {
-    margin:1% 0 0 1%;
+    margin: 0px;
     font-size: 1em;
     font-family: 'Indie Flower', sans-serif;
     font-weight: bold;
