@@ -117,7 +117,7 @@ body {
 /***---APPLYING STYLE TO COPYRIGHT TEXT---***/
 
 .copyright {
-    margin-left: 1%;
+    margin:1% 0 0 1%;
     font-size: 1em;
     font-family: 'Indie Flower', sans-serif;
     font-weight: bold;
