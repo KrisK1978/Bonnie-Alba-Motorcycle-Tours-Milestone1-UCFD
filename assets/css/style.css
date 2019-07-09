@@ -15,11 +15,10 @@ body {
 }
 
 .navbar-nav {
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: bold;
     font-family: 'Indie Flower', sans-serif;
 }
-
 
 .btn {
     font-size: 1.2em;
@@ -34,7 +33,38 @@ body {
     background-color: #dc143c;
 }
 
+/***---STYLING HOME CONTENT---***/
+.home {
+     background-attachment: fixed;
+     background-image: url('../images/section/home.jpg');
+     background-position: bottom;
+     background-size: cover;
+     margin-bottom: 0;
+     height: 99vh;
+     width: 99vw;
+     z-index: 1;
+}
 
+
+/***---STYLING HOME SECTION CONTENT---***/
+
+.title {
+    padding: 0px;
+    margin: 15% 10% 1% 10%;
+    font-size: 1.3em;
+    font-weight: bold;
+    font-family: 'Indie Flower', sans-serif;
+    color: #2f4f4f;
+}
+
+.subtext {
+    padding: 0px;
+    margin: 0 10% 0 10%;
+    font-size: 1.1em;
+    font-weight: bold;
+    font-family: 'Indie Flower', sans-serif;
+    color: #2f4f4f;;
+}
 /***---ADDING STYLES TO FOOTER---***/
 
 .myfooter {
@@ -46,7 +76,7 @@ body {
 .social-media i {
     float: right;
     margin: 1% 2% 0 0;
-    font-size: 1.3em;
+    font-size: 1.1em;
     color: #2f4f4f;
     border: 7px solid #f8f8ff;
     border-radius: 50px;
@@ -87,7 +117,6 @@ body {
 /***---APPLYING STYLE TO COPYRIGHT TEXT---***/
 
 .copyright {
-    float: left;
     margin-left: 1%;
     font-size: 1em;
     font-family: 'Indie Flower', sans-serif;
