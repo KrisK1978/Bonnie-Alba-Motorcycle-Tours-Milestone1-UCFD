@@ -16,10 +16,9 @@ body {
 
 .navbar-nav {
     font-size: 1.3em;
+    font-weight: bold;
     font-family: 'Indie Flower', sans-serif;
 }
-
-
 
 
 .btn {
