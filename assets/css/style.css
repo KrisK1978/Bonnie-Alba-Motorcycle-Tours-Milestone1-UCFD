@@ -80,8 +80,13 @@ body {
      z-index: 1;
 }
 
-
-
+.mygallery {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: 'Indie Flower', sans-serif;
+    color: #fafafa;;
+}
 
 /***---STYLING CONTACT FORM---***/
 
