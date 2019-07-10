@@ -1,13 +1,13 @@
 /***---IMPORTING FONTS STYLE---***/
 
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC|Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
 
 
 /***---BODY STYLING---***/
 
 body {
     background: #d3d3d3;
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Indie Flower', cursive;
 }
 
 .navbar-collapse {
@@ -17,7 +17,6 @@ body {
 .navbar-nav {
     font-size: 1.2em;
     font-weight: bold;
-    font-family: 'Indie Flower', sans-serif;
 }
 
 .btn {
@@ -53,7 +52,6 @@ body {
     margin: 15% 10% 1% 10%;
     font-size: 1.3em;
     font-weight: bold;
-    font-family: 'Indie Flower', sans-serif;
     color: #fafafa;
 }
 
@@ -62,7 +60,6 @@ body {
     margin: 0 10% 0 10%;
     font-size: 1.1em;
     font-weight: bold;
-    font-family: 'Indie Flower', sans-serif;
     color: #fafafa;;
 }
 
@@ -84,7 +81,6 @@ body {
     margin-top: 20px;
     font-size: 1.2em;
     font-weight: bold;
-    font-family: 'Indie Flower', sans-serif;
     color: #2f4f4f;
 }
 
@@ -106,7 +102,7 @@ body {
     font-size: 0.8em;
     font-weight: bold;
     color: #fafafa;
-    text-align: left;
+    margin-left:60px;
 }
 
 /***---STYLING THE MODAl BACKGROUND---***/
@@ -202,7 +198,6 @@ body {
     margin: 6px 10px 0 10px;
     font-size: 1.3em;
     font-weight: bold;
-    font-family: 'Indie Flower', sans-serif;
     color: #fafafa;
     text-align: center;
 }
@@ -292,7 +287,6 @@ body {
 .copyright {
     margin: 0px;
     font-size: 1em;
-    font-family: 'Indie Flower', sans-serif;
     font-weight: bold;
     font-style: oblique;
     color: #2f4f4f;
