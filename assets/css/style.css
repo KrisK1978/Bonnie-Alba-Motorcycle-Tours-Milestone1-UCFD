@@ -190,7 +190,7 @@ body {
 
 .shop {
      background-attachment: fixed;
-     background-image: url('../images/section/Shopping.jpg');
+     background-image: url('../images/section/Cart.jpg');
      background-position: bottom;
      background-size: cover;
      margin-bottom: 0;
@@ -207,6 +207,7 @@ body {
 }
 
 .card  {
+    max-width: 100%;
     background: #fffff0;
     float: left;
     margin-left: 50px;
@@ -234,19 +235,21 @@ body {
 }
 
 .card-description {
+    margin: 0 5px 5px 5px;
+    display: inline-block;
     font-size: 1em;
     font-weight: bold;
     text-align: justify;
     color: #2f4f4f;
 }
 
-.card-button {
-    background-color: #2f4f4f;
+.card-button-add {
+    background-color: #f5f5dc; 
     border: 3px solid #dc143c;
     border-radius: 10px;
     font-size: 1em;
     font-weight: bold;
-    color: #f5f5dc; 
+    color: #2f4f4f;
     padding: 2px;
     margin: 3px 35px 0 35px;
     transition: all .4s ease-in-out;
@@ -255,7 +258,27 @@ body {
    -o-transition: all .4s ease-in-out;
 }
 
-.card-button:hover {
+.card-button-add:hover {
+    background-color: #2f4f4f;
+    color: #f5f5dc;
+}
+
+.card-button-remove {
+    background-color: #2f4f4f;
+    border: 3px solid #dc143c;
+    border-radius: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #f5f5dc; 
+    padding: 2px;
+    margin: 10px 35px 0 35px;
+    transition: all .4s ease-in-out;
+   -moz-transition: all .4s ease-in-out;
+   -webkit-transition: all .4s ease-in-out;
+   -o-transition: all .4s ease-in-out;
+}
+
+.card-button-remove:hover {
     background-color: #f5f5dc;
     color: #2f4f4f;
 }
