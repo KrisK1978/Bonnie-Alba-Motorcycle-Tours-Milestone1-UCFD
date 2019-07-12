@@ -26,8 +26,7 @@ for (i = 0; i < images.length; i++) { // looping through all image tag names in 
   };
 }
 
-//opacity of image on hover is changing in modal
-
+// Opacity of image on hover is changing in modal
 
 
 
