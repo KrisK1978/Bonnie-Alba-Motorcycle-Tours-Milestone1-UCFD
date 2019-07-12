@@ -66,7 +66,7 @@ body {
 .info {
     font-size: 1.3em;
     font-weight: bold;
-    color: #f5f5dc;
+    color: #2f4f4f;
 }
 
 .signUp-button {
@@ -84,6 +84,27 @@ body {
     background-color: #2f4f4f;
     color: #f5f5dc;
 }
+
+/***---APPLYING STYLE TO ABOUT US CONTENT---***/
+
+.aboutus {
+     background-attachment: fixed;
+     background-image: url('../images/section/Aboutus.jpg');
+     background-position: bottom;
+     background-size: cover;
+     margin-bottom: 0;
+     height: 100vh;
+     width: 100vw;
+     z-index: 1;
+}
+
+.about {
+    padding-top: 15px;
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #2f4f4f;
+}
+
 
 
 /***---APPLYING STYLE TO TOURS GUIDE CONTENT---***/
