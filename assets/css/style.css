@@ -66,7 +66,7 @@ body {
 .info {
     font-size: 1.3em;
     font-weight: bold;
-    color: #2f4f4f;
+    color: #d2691e; 
 }
 
 .signUp-button {
@@ -77,7 +77,7 @@ body {
     font-size: 1em;
     font-weight: bold;
     color: #2f4f4f;
-    padding: 2px;
+    padding: 5px;
 }
 
 .signUp-button:hover {
