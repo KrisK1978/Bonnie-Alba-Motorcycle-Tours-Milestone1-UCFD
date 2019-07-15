@@ -400,9 +400,28 @@ body {
     color: #2f4f4f;
 }
 
-.textarea {
-    overflow: auto;
-    resize: vertical;
+.card {
+     padding: 5px;
+     background-color: #778899;
+}
+
+.card-title {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #f5f5dc;
+}
+
+.card-body {
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: center;
+    font-style: oblique;
+    color: #fafafa;
+}
+
+.card-body p {
+    font-size: 0.9em;
+    color: #ff6347;
 }
 
 /***---ADDING STYLES TO FOOTER---***/
