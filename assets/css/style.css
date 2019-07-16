@@ -105,6 +105,13 @@ body {
     color: #2f4f4f;
 }
 
+.par-1,
+.par-2 {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #f5f5dc;
+    text-align: justify;
+}
 
 
 /***---APPLYING STYLE TO TOURS GUIDE CONTENT---***/
@@ -401,8 +408,10 @@ body {
 }
 
 .card {
-     padding: 5px;
-     background-color: #778899;
+    position: relative;
+    padding: 5px;
+    background-color: #778899;
+    z-index: 1;
 }
 
 .card-title {
@@ -421,7 +430,13 @@ body {
 
 .card-body p {
     font-size: 0.9em;
-    color: #ff6347;
+    color: #191970;
+}
+
+.card-text  {
+    font-size: 1.1em;
+    color: #191970;
+    text-align: center;
 }
 
 /***---ADDING STYLES TO FOOTER---***/
