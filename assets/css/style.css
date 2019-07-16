@@ -39,7 +39,7 @@ body {
      background-image: url('../images/section/Home.jpg');
      background-position: bottom;
      background-size: cover;
-     padding: 40px;
+     padding: 40;
      height: 100vh;
      width: 100vw;
      z-index: 1;
@@ -102,17 +102,16 @@ body {
     padding-top: 30px;
     font-size: 1.7em;
     font-weight: bold;
-    color: #f5f5dc;
+    color: #4b0082;
 }
 
 .par-1,
 .par-2 {
     font-size: 1.1em;
     font-weight: bold;
-    color: #fafafa;
+    color: #fffafa;
     text-align: justify;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin: 0 20px 0 20px;
 }
 
 
@@ -173,10 +172,10 @@ body {
     filter: grayscale(100%);
 }
 
-.myimages p {
+.myimages p  {
     font-size: 1em;
     font-weight: bold;
-    color: #fafafa;
+    color: #fffafa;
     margin-left: 50px;
 }
 
@@ -233,7 +232,7 @@ body {
   top: 60px;
   right: 80px;
   color: #f1f1f1;
-  font-size: 45px;
+  font-size: 55px;
   font-weight: bold;
   transition: all .4s ease-in-out;
    -moz-transition: all .4s ease-in-out;
@@ -428,7 +427,8 @@ body {
 /***---ADDING STYLES TO FOOTER---***/
 
 .myfooter {
-    position: relative;
+    position:relative;
+    bottom: 0;
     width: 100vw;
     background-color: #dcdcdc;
 }
@@ -485,4 +485,6 @@ body {
 
 /***---MEDIA QUERIES---***/
 
-  
+
+
+
