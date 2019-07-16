@@ -377,11 +377,10 @@ body {
     font-size: 1.6em;
     font-weight: bold;
     color: #f5f5dc;
-    text-align: center;
 }
 
 .form-control {
-    margin: 5px 35px 0 35px;
+    max-width: 100%;
     font-size: 1em;
     font-weight: bold;
     background-color: #dcdcdc;
@@ -397,7 +396,6 @@ body {
     font-weight: bold;
     color: #f5f5dc;  
     padding: 3px;
-    margin: 3px 35px 0 35px;
     transition: all .4s ease-in-out;
    -moz-transition: all .4s ease-in-out;
    -webkit-transition: all .4s ease-in-out;
