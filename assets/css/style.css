@@ -137,12 +137,29 @@ body {
 }
 
 .introduction {
+    font-size: 1em;
+    font-weight: bold;
+    color: #fffafa;
+}
+
+.tour1,
+.destination, 
+.distance,
+.duration {
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #f5f5dc;
+}
+
+.description,
+.places {
     font-size: 0.9em;
     font-weight: bold;
     color: #fffafa;
     text-align: justify;
-    margin: 0 10px 0 10px;
 }
+
+
 
 /***---ADDING STYLE TO GALLERY---***/
 
