@@ -150,6 +150,37 @@ body {
     color: #f5f5dc;
 }
 
+.tour1,
+.description {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #2f4f4f;
+    background: #f5f5dc;;
+    border: 4px solid #f8f8ff;
+    border-radius: 25px;
+    opacity: 0.8;
+}
+
+.details1 {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #ff4500; 
+    background: #fffafa;
+    border: 4px solid #f8f8ff;
+    border-radius: 25px;
+    opacity: 0.8;
+}
+
+.details2 {
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #ff4500; 
+    text-align: justify;
+    background: #fffafa;
+    border: 4px solid #f8f8ff;
+    border-radius: 25px;
+    opacity: 0.8;
+}
 
 
 /***---ADDING STYLE TO GALLERY---***/
