@@ -137,9 +137,11 @@ body {
 }
 
 .introduction {
-    font-size: 1.7em;
+    font-size: 0.9em;
     font-weight: bold;
-    color: #f5f5dc;
+    color: #fffafa;
+    text-align: justify;
+    margin: 0 10px 0 10px;
 }
 
 /***---ADDING STYLE TO GALLERY---***/
