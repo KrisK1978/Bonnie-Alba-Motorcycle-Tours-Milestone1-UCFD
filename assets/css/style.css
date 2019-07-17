@@ -130,8 +130,8 @@ body {
 }
 
 .tour-guide {
-    padding-top: 15px;
-    font-size: 1.7em;
+    margin-top: 20px;
+    font-size: 1.3em;
     font-weight: bold;
     color: #f5f5dc;
 }
@@ -140,23 +140,14 @@ body {
     font-size: 1em;
     font-weight: bold;
     color: #fffafa;
+    text-align: justify;
 }
 
-.tour1,
-.destination, 
-.distance,
-.duration {
-    font-size: 0.9em;
+
+.destination {
+    font-size: 1.4em;
     font-weight: bold;
     color: #f5f5dc;
-}
-
-.description,
-.places {
-    font-size: 0.9em;
-    font-weight: bold;
-    color: #fffafa;
-    text-align: justify;
 }
 
 
