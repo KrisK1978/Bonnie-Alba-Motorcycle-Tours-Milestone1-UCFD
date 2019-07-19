@@ -1,4 +1,4 @@
-*Note*
+**Note**
 
 Bonnie Alba Motorcycle Tours is my very first website created as a part of User Centric Front-End Development. It is my Milestone 1 project and confirmation of my coding skills I had gained since started the Full-Stack Web Developer course provided by Code Institute. 
 
@@ -10,18 +10,18 @@ The website live demo can be found here
 
 1.	My goal:
 
-•	creating a website about visiting Scotland on motorcycle;
+    •	creating a website about visiting Scotland on motorcycle;
 
 2.	Potential website user:
 
-•	motorcycle enthusiasts who would like to experience challenging but stunning roads in Scotland;
-•	people interested in visiting Scotland and looking for information about places worth to see;
+    •	motorcycle enthusiasts who would like to experience challenging but stunning roads in Scotland;
+    •	people interested in visiting Scotland and looking for information about places worth to see;
 
 3.	Website functionality:
 
-•	user-friendly and easy to navigate;
-•	providing the potential website user with information they require when planning a motorcycle trip to Scotland;
-•	giving an opportunity to purchase motorcycle gear and contact directly the website owner if more information is required;
+    •	user-friendly and easy to navigate;
+    •	providing the potential website user with information they require when planning a motorcycle trip to Scotland;
+    •	giving an opportunity to purchase motorcycle gear and contact directly the website owner if more information is required;
 
 ***Wireframes***
 
