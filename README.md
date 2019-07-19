@@ -1,9 +1,13 @@
-**Note**
+*Note*
+
 Bonnie Alba Motorcycle Tours is my very first website created as a part of User Centric Front-End Development. It is my Milestone 1 project and confirmation of my coding skills I had gained since started the Full-Stack Web Developer course provided by Code Institute. 
 
 ***Demo*** 
+
 The website live demo can be found here 
-UX
+
+***UX***
+
 1.	My goal:
 
 •	creating a website about visiting Scotland on motorcycle;
@@ -33,8 +37,10 @@ The following technologies have been used in the project completion process:
 	Popper.js to calculate the position of an element and required for the responsive navbar
 
 ***Project Testing***
+
 More information about the project testing can be found in 
 <a href=”https://github.com/KrisK1978/milestone-project1-bamt-ucfd/blob/master/TESTING.md”>
 
 ***Deployment***
+
 The website is hosted using GitHub pages and can be deployed directly from the <a href=”https://github.com/KrisK1978/milestone-project1-bamt-ucfd”>master branch   Initially the project was developed using the <a href=”https://c9.io/login”> Cloud9 IDE but due to a long-planned platform upgrade it had been migrated to a new Amazon Website Services account.
