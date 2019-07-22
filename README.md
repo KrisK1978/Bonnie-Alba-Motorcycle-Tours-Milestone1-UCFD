@@ -47,20 +47,40 @@ I have used Balsamiq to create wireframe mockups to represent the project’s st
 
 All pages consist a responsive navigation bar with a logo (motorcycle related icon) located in right-top corner. When
 users click on the logo it will return them to the home page. Each page has a different background-image and an active button which 
-once tapped will transfer the user to Polish version of the website. The footer has a copyright information and social media icons which will link
-the user to the website owner social media pages (the size and color of social media icons will change when using a hover function).
+once tapped will transfer the user to Polish version of the website. This will give the non-English speaker users an opportunity to 
+access information in their native language. The footer has a copyright information and social media icons which will link the user 
+to the website owner social media pages (the size and color of social media icons will change when using a hover function).
+
+
+**Home Page**
+
+The Home Page features a motorcycle-related image (background) which was converted to grayscale to grab attention and to build 
+a nice connection with the website users.
+There is also an active 'Sign Up!' button applied on the Home Page. It is a modal's element which once clicked will provide the user
+with additional information i.e. 10% voucher available to be used in the Shop section.
+
+
+***Features to Implement in future***
+
 
 
 ***Technologies Used***
 
 The following technologies have been used in the project completion process:
-	HTML5 which defines the properties and behaviours of web page content  
-	CSS which describes how HTML elements should be displayed on the screen 
-	BootstrapCDN v4.3.1 to make the website responsive and user-friendly
-	Font Awesome v4.7.0 to control the way the icon looks  
-	Google Fonts responsible for styling the website fonts 
-	jQuery v3.4.1 to standardize and simplify interactions between HTML elements and JavaScript code
-	Popper.js to calculate the position of an element and required for the responsive navbar
+
+•   HTML5 which defines the properties and behaviours of web page content  
+
+•   CSS which describes how HTML elements should be displayed on the screen 
+
+•   BootstrapCDN v4.3.1 to make the website responsive and user-friendly
+
+•   Font Awesome v4.7.0 to control the way the icon looks  
+
+•   Google Fonts responsible for styling the website fonts 
+
+•   jQuery v3.4.1 to standardize and simplify interactions between HTML elements and JavaScript code
+
+•   Popper.js to calculate the position of an element and required for the responsive navbar
 
 ***Project Testing***
 
