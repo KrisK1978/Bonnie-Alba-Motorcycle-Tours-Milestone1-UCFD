@@ -89,6 +89,20 @@ the image can be closed by using 'X' sign. The image has a grayscale filter appl
 
 ***Shop***
 
+The Shop Page gives the user an opportunity to purchase a range of motorcycle products. I used a 'card' component to create the Shop section.
+Each card has the following elements: 
+
+•   product image (each image will extend its size when clicked, modal function applied);
+
+•   product title;
+
+•   product price;
+
+•   product description;
+
+•   'Add to Cart' & 'Remove from Cart' buttons (the button's background changes when using a hover function);
+
+
 
 ***Features to Implement in future***
 
