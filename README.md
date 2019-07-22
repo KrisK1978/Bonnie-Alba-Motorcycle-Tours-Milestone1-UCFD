@@ -78,7 +78,7 @@ The Tours Guide gives the user an opportunity to access the following informatio
 
 •   places worth to visit;
 
-•   tour map (the map extends when clicked, it opens in a new window and has interesting places marked);
+•   tour map (the map extends when clicked, it opens in a new window and has interesting places marked on the map);
 
 
 ***Gallery***
