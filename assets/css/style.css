@@ -50,7 +50,7 @@ body {
 /***---STYLING HOME SECTION CONTENT---***/
 
 .jumbotron {
-    margin-top: 20pX;
+    margin-top: 50px;
     border: 3px solid #f5f5dc;
     border-radius: 10px;
     opacity: 0.7;
@@ -101,7 +101,7 @@ body {
 }
 
 .about {
-    padding-top: 30px;
+    margin-top: 100px;
     font-size: 1.7em;
     font-weight: bold;
     color: #4b0082;
@@ -203,7 +203,7 @@ body {
 }
 
 .mygallery {
-    margin-top: 40px;
+    margin-top: 100px;
     font-size: 1.5em;
     font-weight: bold;
     color: #2f4f4f;
@@ -538,6 +538,7 @@ body {
 
 /***---MEDIA QUERIES---***/
 
+
 /***---EXTRA SMALL DEVICES (portrait phones, less than 576px)---***/
 @media (max-width: 575.98px) { 
     .home,
@@ -549,17 +550,53 @@ body {
         height: 99%;
     }
     
+    .gallery {
+        padding: 0 50px 0 50px;
+    }
+}
+
+
+
+/***---Small devices (landscape phones, 576px and up)---***/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .home,
+    .aboutus,
+    .tours,
+    .gallery,
+    .shop,
+    .contact {
+        height: 99vh;
+    }
+    
+    .gallery {
+        padding: 0 50px 0 50px;
+    }
+}
+
+/***---Medium devices (tablets, 768px and up)---***/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+    .home,
+    .aboutus,
+    .tours,
+    .gallery,
+    .shop,
+    .contact {
+        height: 99vh;
+    }
     
 }
 
-/***---Small devices (landscape phones, 576px and up)---***/
-@media (min-width: 576px) and (max-width: 767.98px) { ... }
-
-/***---Medium devices (tablets, 768px and up)---***/
-@media (min-width: 768px) and (max-width: 991.98px) { ... }
-
 /***---Large devices (desktops, 992px and up)---***/
-@media (min-width: 992px) and (max-width: 1199.98px) { ... }
-
-/***---Extra large devices (large desktops, 1200px and up)---***/
-@media (min-width: 1200px) { ... }
+@media (min-width: 992px) and (max-width: 1200px) {
+    
+    .home,
+    .aboutus,
+    .tours,
+    .gallery,
+    .shop,
+    .contact {
+        height: 99vh;
+    }
+}
+        
