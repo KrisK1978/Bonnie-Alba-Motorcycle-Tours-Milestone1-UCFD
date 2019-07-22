@@ -25,6 +25,10 @@ The website live demo can be found here
 
 ***Wireframes***
 
+I have used Balsamiq to create wireframe mockups to represent the project’s structure and the way the project would look like.
+
+• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/About%20Us%20Page.pdf">
+
 ***Technologies Used***
 
 The following technologies have been used in the project completion process:
