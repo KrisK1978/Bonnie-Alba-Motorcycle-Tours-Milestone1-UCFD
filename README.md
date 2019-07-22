@@ -15,19 +15,34 @@ The website live demo can be found here
 2.	Potential website user:
 
     •	motorcycle enthusiasts who would like to experience challenging but stunning roads in Scotland;
+    
     •	people interested in visiting Scotland and looking for information about places worth to see;
 
 3.	Website functionality:
 
     •	user-friendly and easy to navigate;
+    
     •	providing the potential website user with information they require when planning a motorcycle trip to Scotland;
+    
     •	giving an opportunity to purchase motorcycle gear and contact directly the website owner if more information is required;
 
 ***Wireframes***
 
 I have used Balsamiq to create wireframe mockups to represent the project’s structure and the way the project would look like.
 
-• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/About%20Us%20Page.pdf">
+• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Home%20Page.pdf">Home Page</a>
+
+• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/About%20Us%20Page.pdf">About Us...</a>
+
+• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Tours%20Guide%20Page.pdf">Tours Guide</a>
+
+• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Gallery%20Page.pdf">Gallery</a>
+
+• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Shop%20Page.pdf">Shop</a>
+
+• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Get%20in%20Touch.pdf">Get in touch...</a>
+
+
 
 ***Technologies Used***
 
