@@ -203,7 +203,7 @@ body {
 }
 
 .mygallery {
-    margin-top: 100px;
+    margin-top: 130px;
     font-size: 1.5em;
     font-weight: bold;
     color: #2f4f4f;
@@ -226,11 +226,9 @@ body {
 }
 
 .myimages p  {
-    font-size: 1em;
+    font-size: 0.9em;
     font-weight: bold;
     color: #fffafa;
-    text-align: center;
-   
 }
 
 
@@ -283,8 +281,8 @@ body {
 
 .close {
   position: absolute;
-  top: 60px;
-  right: 80px;
+  top: 50px;
+  right: 70px;
   color: #f1f1f1;
   font-size: 55px;
   font-weight: bold;
@@ -558,16 +556,7 @@ body {
         overflow: scroll;
     }
     
-    .gallery {
-        padding: 0 50px 0 50px;
-    }
-
-    .myimages img {
-        margin-left: 50px;
-    }
 }
-
-
 
 
 /***---Small devices (landscape phones, 576px and up)---***/
@@ -583,13 +572,6 @@ body {
         overflow: scroll;
     }
     
-    .gallery {
-        padding: 0 50px 0 50px;
-    }
-    
-    .myimages img {
-        margin-left: 50px;
-    }
 }
 
 /***---Medium devices (tablets, 768px and up)---***/
@@ -606,13 +588,7 @@ body {
         overflow: scroll;
     }
     
-    .gallery {
-        padding: 0 50px 0 50px;
-    }
     
-    .myimages img {
-        margin-left: 50px;
-    }
 }
 
 /***---Large devices (desktops, 992px and up)---***/
@@ -629,17 +605,7 @@ body {
         overflow: scroll;
     }
     
-    .gallery {
-        padding: 0 50px 0 50px;
-    }
     
-    .myimages img {
-        margin-left: 50px;
-    }
-    
-    .contactus {
-        margin: 50px;
-    }
     
      
 }
