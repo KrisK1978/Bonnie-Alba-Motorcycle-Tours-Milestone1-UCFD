@@ -325,11 +325,23 @@ body {
 }
 
 .shopping {
-    margin: 30px 10px 0 10px;
+    margin-top: 60px;
     font-size: 1.6em;
     font-weight: bold;
     color: #f5f5dc;
-    text-align: center;
+}
+
+.shopping-text {
+    padding: 0;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #2f4f4f;
+}
+
+.shopping-offer {
+    font-size: 1em;
+    font-weight: bold;
+    color: #2f4f4f;
 }
 
 .card  {
@@ -378,10 +390,10 @@ body {
     background-color: #f5f5dc; 
     border: 3px solid #dc143c;
     border-radius: 10px;
-    font-size: 0.9em;
+    font-size: 0.8em;
     font-weight: bold;
     color: #2f4f4f;
-    padding: 2px;
+    padding: 8px;
     margin: 3px 35px 0 35px;
     transition: all .4s ease-in-out;
    -moz-transition: all .4s ease-in-out;
@@ -398,7 +410,7 @@ body {
     background-color: #2f4f4f;
     border: 3px solid #dc143c;
     border-radius: 10px;
-    font-size: 0.9em;
+    font-size: 0.8em;
     font-weight: bold;
     color: #f5f5dc; 
     padding: 10px;
@@ -422,14 +434,13 @@ body {
     background-image: url('../images/section/Contact.jpg');
     background-position: bottom;
     background-size: cover;
-    padding: 50px;
     width: 99vw;
     height: 99vh;
     z-index: 1;
 }
 
 .contactus {
-    margin: 30px;
+    margin-top: 100px;
     font-size: 1.6em;
     font-weight: bold;
     color: #f5f5dc;
