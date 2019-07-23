@@ -50,7 +50,7 @@ body {
 /***---STYLING HOME SECTION CONTENT---***/
 
 .jumbotron {
-    margin-top: 50px;
+    margin-top: 35px;
     border: 3px solid #f5f5dc;
     border-radius: 10px;
     opacity: 0.7;
@@ -188,7 +188,6 @@ body {
 }
 
 
-
 /***---ADDING STYLE TO GALLERY---***/
 
 .gallery {
@@ -196,6 +195,7 @@ body {
      background-image: url('../images/section/Gallery.jpg');
      background-position: bottom;
      background-size: cover;
+     padding: 50px;
      margin-bottom: 0;
      width: 99vw;
      height: 99vh;
@@ -229,7 +229,8 @@ body {
     font-size: 1em;
     font-weight: bold;
     color: #fffafa;
-    margin-left: 50px;
+    text-align: center;
+   
 }
 
 
@@ -318,6 +319,7 @@ body {
     background-image: url('../images/section/Shop.jpg');
     background-position: bottom;
     background-size: cover;
+    padding: 50px;
     margin-bottom: 0;
     width: 99vw;
     height: 99vh;
@@ -325,7 +327,7 @@ body {
 }
 
 .shopping {
-    margin: 20px 10px 0 10px;
+    margin: 30px 10px 0 10px;
     font-size: 1.6em;
     font-weight: bold;
     color: #f5f5dc;
@@ -346,6 +348,7 @@ body {
 }
 
 .card-title {
+    margin: 5px 5px 5px 5px;
     font-size: 1.4em;
     font-weight: bold;
     text-align: center;
@@ -359,22 +362,25 @@ body {
     text-align: center;
     color: #1e90ff;
     margin-top: 5px;
+ 
 }
 
+
 .card-description {
-    margin: 0 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
     display: inline-block;
     font-size: 1em;
     font-weight: bold;
-    text-align: justify;
+    text-align: center;
     color: #2f4f4f;
+    line-height: 1;
 }
 
 .card-button-add {
     background-color: #f5f5dc; 
     border: 3px solid #dc143c;
     border-radius: 10px;
-    font-size: 1em;
+    font-size: 0.9em;
     font-weight: bold;
     color: #2f4f4f;
     padding: 2px;
@@ -418,14 +424,14 @@ body {
     background-image: url('../images/section/Contact.jpg');
     background-position: bottom;
     background-size: cover;
-    margin-bottom: 0;
+    padding: 50px;
     width: 99vw;
     height: 99vh;
     z-index: 1;
 }
 
 .contactus {
-    margin: 20px 10px 0 10px;
+    margin: 30px;
     font-size: 1.6em;
     font-weight: bold;
     color: #f5f5dc;
@@ -482,7 +488,7 @@ body {
 .myfooter {
     position: relative;
     bottom: 0;
-    width: 100vw;
+    width: 100%;
     background-color: #dcdcdc;
 }
 
@@ -547,13 +553,20 @@ body {
     .gallery,
     .shop,
     .contact {
+        width: 99vw;
         height: 99%;
+        overflow: scroll;
     }
     
     .gallery {
         padding: 0 50px 0 50px;
     }
+
+    .myimages img {
+        margin-left: 50px;
+    }
 }
+
 
 
 
@@ -565,11 +578,17 @@ body {
     .gallery,
     .shop,
     .contact {
-        height: 99vh;
+        width: 99vw;
+        height: 99%;
+        overflow: scroll;
     }
     
     .gallery {
         padding: 0 50px 0 50px;
+    }
+    
+    .myimages img {
+        margin-left: 50px;
     }
 }
 
@@ -582,13 +601,22 @@ body {
     .gallery,
     .shop,
     .contact {
+        width: 99vw;
         height: 99vh;
+        overflow: scroll;
     }
     
+    .gallery {
+        padding: 0 50px 0 50px;
+    }
+    
+    .myimages img {
+        margin-left: 50px;
+    }
 }
 
 /***---Large devices (desktops, 992px and up)---***/
-@media (min-width: 992px) and (max-width: 1200px) {
+@media (min-width: 992px) and (max-width: 1366px) {
     
     .home,
     .aboutus,
@@ -596,7 +624,23 @@ body {
     .gallery,
     .shop,
     .contact {
+        width: 99%;
         height: 99vh;
+        overflow: scroll;
     }
+    
+    .gallery {
+        padding: 0 50px 0 50px;
+    }
+    
+    .myimages img {
+        margin-left: 50px;
+    }
+    
+    .contactus {
+        margin: 50px;
+    }
+    
+     
 }
         
