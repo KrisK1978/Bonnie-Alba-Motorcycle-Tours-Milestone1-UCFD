@@ -427,11 +427,10 @@ body {
 .subtotal,
 .tax, 
 .shipping  {
-    float: right;
     font-size: 1.1em;
     font-weight: bold;
     color: #f5f5dc;
-    margin-right: 50px;
+    margin: 15px 50px 0 0;
 }
 
 .subtotal-item,
@@ -440,24 +439,43 @@ body {
     font-size: 1.1em;
     font-weight: bold;
     color: #fafafa;
-    margin-left: 10px;
+    margin: 0 0 0 15px;
 }
 
 .total {
-    float: right;
-    font-size: 1.4em;
+    font-size: 1.3em;
     font-weight: bold;
     color: #f5f5dc;
-    margin-right: 40px;
+    margin-right: 30px;   
 }
 
 .total-item {
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: bold;
-    color: #fafafa;
+    color: #ff4500;
     margin-left: 10px;
+   
 }
 
+.checkout {
+    background-color: #f5f5dc; 
+    border: 3px solid #778899;
+    border-radius: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #4b0082;
+    padding: 5px;
+    margin: 0 0 20px 100px;
+    transition: all .4s ease-in-out;
+   -moz-transition: all .4s ease-in-out;
+   -webkit-transition: all .4s ease-in-out;
+   -o-transition: all .4s ease-in-out;
+}
+
+.checkout:hover {
+    background-color: #2f4f4f;
+    color: #f5f5dc; 
+}
 
 /***---STYLING CONTACT FORM---***/
 
