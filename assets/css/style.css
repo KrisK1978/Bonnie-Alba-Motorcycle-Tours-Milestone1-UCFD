@@ -347,7 +347,6 @@ body {
     max-width: 100%;
     background: #fffff0;
     float: left;
-    margin-top: 10px;
     margin-left: 20px;
     width: 180px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -617,6 +616,9 @@ body {
         overflow: scroll;
     }
     
+   .shop {
+       padding: 0 50px 0 50px;
+   }
 }
 
 
@@ -633,6 +635,10 @@ body {
         overflow: scroll;
     }
     
+    .shop {
+       padding: 0 30px 0 30px;
+   }
+   
 }
 
 /***---Medium devices (tablets, 768px and up)---***/
@@ -649,11 +655,14 @@ body {
         overflow: scroll;
     }
     
+    .shop {
+       padding: 0 30px 0 30px;
+   }
     
 }
 
 /***---Large devices (desktops, 992px and up)---***/
-@media (min-width: 992px) and (max-width: 1366px) {
+@media (min-width: 992px) and (max-width: 1400px) {
     
     .home,
     .aboutus,
@@ -666,7 +675,9 @@ body {
         overflow: scroll;
     }
     
-    
+    .shop {
+       padding-left: 70px;
+   }
     
      
 }
