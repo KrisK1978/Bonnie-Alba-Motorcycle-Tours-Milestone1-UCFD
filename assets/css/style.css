@@ -152,12 +152,12 @@ body {
 }
 
 .tour1,
-.description {
+.description,
+.tour-map1    {
     font-size: 1.3em;
     font-weight: bold;
     color: #2f4f4f;
     padding: 0px;
-    margin: 0 5px 0 5px;
     background: #f5f5dc;;
     border: 2px solid #ff4500;
     border-radius: 15px;
@@ -186,6 +186,7 @@ body {
     border-radius: 10px;
     opacity: 0.8;
 }
+
 
 
 /***---ADDING STYLE TO GALLERY---***/
