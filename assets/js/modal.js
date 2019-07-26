@@ -25,11 +25,3 @@ for (i = 0; i < images.length; i++) { // looping through all image tag names in 
     captionText.innerHTML = this.alt;
   };
 }
-
-// Opacity of image on hover is changing in modal
-
-
-
-
-
-
