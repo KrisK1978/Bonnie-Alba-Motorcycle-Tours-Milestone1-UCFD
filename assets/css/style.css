@@ -284,8 +284,6 @@ body {
 .card {
     max-width: 100%;
     background: #fffff0;
-    float: left;
-    margin-left: 20px;
     width: 180px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     border: 3px solid #778899;
@@ -414,68 +412,7 @@ body {
     color: #f5f5dc; 
 }
 
-/***---STYLING MODAL CONTENT (IMAGE)---***/
 
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 100%;
-  max-width: 80%;
-}
-
-/***---STYLING CAPTION OF MODAL IMAGE---***/
-
-#caption{
-  margin: auto;
-  display: block;
-  text-align: center;
-  font-size: 1.1em;
-  color: #fafafa;
-  padding: 10px 0;
-  height: 150px;
-}
-
-/***---ADDING ANIMATION---***/
-
-.modal-content, #caption {
-  -webkit-animation-name: zoom;
-  -moz-animation-name: zoom;
-  -webkit-animation-duration: 0.8s;
-  -moz-animation-duration: 0.8s;
-}
-
-/***---STYLING CLOSE BUTTON---***/
-
-.close {
-  position: absolute;
-  top: 50px;
-  right: 70px;
-  color: #f1f1f1;
-  font-size: 55px;
-  font-weight: bold;
-  transition: all .4s ease-in-out;
-   -moz-transition: all .4s ease-in-out;
-   -webkit-transition: all .4s ease-in-out;
-   -o-transition: all .4s ease-in-out;
-}
-
-.close:hover,
-.close:focus {
-  color: #fafafa;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-
-@-webkit-keyframes zoom {
-  from {transform: scale(0)}
-  to {transform: scale(1)}
-}
-
-@keyframes zoom { 
-  from {transform: scale(0)}
-  to {transform: scale(1)}
-}
 /***---STYLING CONTACT FORM---***/
 
 .contact {
@@ -616,9 +553,7 @@ body {
         overflow: scroll;
     }
     
-   .shop {
-       padding: 0 50px 0 50px;
-   }
+   
 }
 
 
@@ -635,9 +570,7 @@ body {
         overflow: scroll;
     }
     
-    .shop {
-       padding: 0 30px 0 30px;
-   }
+    
    
 }
 
@@ -655,9 +588,7 @@ body {
         overflow: scroll;
     }
     
-    .shop {
-       padding: 0 30px 0 30px;
-   }
+    
     
 }
 
@@ -679,9 +610,7 @@ body {
         margin-top: 100px;    
     }
  
-    .shop {
-       padding-left: 70px;
-   }
+    
     
      
 }
