@@ -241,88 +241,9 @@ body {
 }
 
 .myimages p  {
-    font-size: 0.9em;
+    font-size: 1em;
     font-weight: bold;
     color: #fffafa;
-}
-
-
-/***---STYLING THE MODAl BACKGROUND---***/
-
-.modal{
-  display: none;
-  position: fixed;
-  padding-top: 100px;
-  margin-left: 0;
-  margin-top: 70px;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: #000000;
-  z-index: 1;
-}
-
-/***---STYLING MODAL CONTENT (IMAGE)---***/
-
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 100%;
-  max-width: 80%;
-}
-
-/***---STYLING CAPTION OF MODAL IMAGE---***/
-
-#caption{
-  margin: auto;
-  display: block;
-  text-align: center;
-  font-size: 1.1em;
-  color: #fafafa;
-  padding: 10px 0;
-  height: 150px;
-}
-
-/***---ADDING ANIMATION---***/
-
-.modal-content, #caption {
-  -webkit-animation-name: zoom;
-  -moz-animation-name: zoom;
-  -webkit-animation-duration: 0.8s;
-  -moz-animation-duration: 0.8s;
-}
-
-/***---STYLING CLOSE BUTTON---***/
-
-.close {
-  position: absolute;
-  top: 50px;
-  right: 70px;
-  color: #f1f1f1;
-  font-size: 55px;
-  font-weight: bold;
-  transition: all .4s ease-in-out;
-   -moz-transition: all .4s ease-in-out;
-   -webkit-transition: all .4s ease-in-out;
-   -o-transition: all .4s ease-in-out;
-}
-
-.close:hover,
-.close:focus {
-  color: #fafafa;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-
-@-webkit-keyframes zoom {
-  from {transform: scale(0)}
-  to {transform: scale(1)}
-}
-
-@keyframes zoom { 
-  from {transform: scale(0)}
-  to {transform: scale(1)}
 }
 
 
@@ -359,7 +280,8 @@ body {
     color: #4b0082;
 }
 
-.card  {
+
+.card {
     max-width: 100%;
     background: #fffff0;
     float: left;
@@ -492,6 +414,68 @@ body {
     color: #f5f5dc; 
 }
 
+/***---STYLING MODAL CONTENT (IMAGE)---***/
+
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 100%;
+  max-width: 80%;
+}
+
+/***---STYLING CAPTION OF MODAL IMAGE---***/
+
+#caption{
+  margin: auto;
+  display: block;
+  text-align: center;
+  font-size: 1.1em;
+  color: #fafafa;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/***---ADDING ANIMATION---***/
+
+.modal-content, #caption {
+  -webkit-animation-name: zoom;
+  -moz-animation-name: zoom;
+  -webkit-animation-duration: 0.8s;
+  -moz-animation-duration: 0.8s;
+}
+
+/***---STYLING CLOSE BUTTON---***/
+
+.close {
+  position: absolute;
+  top: 50px;
+  right: 70px;
+  color: #f1f1f1;
+  font-size: 55px;
+  font-weight: bold;
+  transition: all .4s ease-in-out;
+   -moz-transition: all .4s ease-in-out;
+   -webkit-transition: all .4s ease-in-out;
+   -o-transition: all .4s ease-in-out;
+}
+
+.close:hover,
+.close:focus {
+  color: #fafafa;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+@-webkit-keyframes zoom {
+  from {transform: scale(0)}
+  to {transform: scale(1)}
+}
+
+@keyframes zoom { 
+  from {transform: scale(0)}
+  to {transform: scale(1)}
+}
 /***---STYLING CONTACT FORM---***/
 
 .contact {
