@@ -51,7 +51,7 @@ body {
 
 .jumbotron {
     margin-top: 35px;
-    border: 3px solid #f5f5dc;
+    border: 3px solid #2f4f4f;
     border-radius: 10px;
     opacity: 0.7;
     z-index: 1;
@@ -60,7 +60,7 @@ body {
 .title {
     font-size: 1.7em;
     font-weight: bold;
-    color: #2f4f4f;
+    color: #ff4500;
 }
 
 .subtext,
@@ -68,18 +68,21 @@ body {
 .info {
     font-size: 1.3em;
     font-weight: bold;
-    color: #d2691e; 
+    color: #4b0082; 
 }
 
 .signUp-button {
-    position: inherit;
     background-color: #f5f5dc;
-    border: 3px solid ;
+    border: 3px solid #ff4500;
     border-radius: 10px;
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: bold;
-    color: #2f4f4f;
+    color: #4b0082;
     padding: 5px;
+    transition: all .4s ease-in-out;
+   -moz-transition: all .4s ease-in-out;
+   -webkit-transition: all .4s ease-in-out;
+   -o-transition: all .4s ease-in-out;
 }
 
 .signUp-button:hover {
