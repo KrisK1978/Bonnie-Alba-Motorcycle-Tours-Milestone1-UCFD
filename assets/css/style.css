@@ -50,7 +50,6 @@ body {
 /***---STYLING HOME SECTION CONTENT---***/
 
 .jumbotron {
-    margin-top: 35px;
     border: 3px solid #2f4f4f;
     border-radius: 10px;
     opacity: 0.7;
@@ -90,10 +89,24 @@ body {
     color: #f5f5dc;
 }
 
+/***---STYLING SIGN UP FORM MODAL---***/
+
 .modal-title {
     font-size: 1.5em;
     font-weight: bold;
+    color: #4b0082;
+}
+
+.form-label {
+    font-size: 1.3em;
+    font-weight: bold;
     color: #2f4f4f;
+}
+
+.help-text {
+    font-size: 1em;
+    font-weight: bold;
+    color: #4b0082;
 }
 
 .close-button {
@@ -104,7 +117,7 @@ body {
 
 .signup-button {
     background-color: #f5f5dc;;
-    border: 3px solid #ff4500;
+    border: 3px solid #4b0082;
     border-radius: 10px;
     font-size: 1.3em;
     font-weight: bold;
@@ -590,6 +603,9 @@ body {
         overflow: scroll;
     }
     
+    .jumbotron {
+        margin-top: 40px;
+    }
    
 }
 
