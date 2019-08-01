@@ -9,64 +9,112 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css" type="text/css" />
     <link href="https://fonts.googleapis.com/css?family=Indie+Flower&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/jquery.fancybox.min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <title>Bonnie Alba Wyprawy Motocyklowe</title>
+    <title>Bonnie Alba Motorcycle Tours</title>
 </head>
 <body>
   
-    <header class="sticky">
-      <!--*****CREATING NAVBAR & NAVBAR BUTTON*****--> 
-        <nav class="navbar navbar-expand-md fixed-top navbar-light bg-light">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          
-        <div class="collapse navbar-collapse" id="navbarNav">
-              <a class="btn btn-secondary mr-md-4" href="index.html">EN</a>
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="aboutus.html">O nas...</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="toursguide.html">Przewodnik</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="gallery.html">Galeria</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="shop.html">Sklep</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.html">Kontakt</a>
-            </li>
-          </ul>
-        </div>
-        <a class="navbar-brand" href="pl-index.html"><img src="assets/images/section/moto-logo.jpg" height="50"></a>
-      </nav>
-    </header>
+   <header class="sticky">
+    <!--*****CREATING NAVBAR & NAVBAR BUTTON*****--> 
+      <nav class="navbar navbar-expand-md fixed-top navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        
+      <div class="collapse navbar-collapse" id="navbarNav">
+            <a class="btn btn-secondary mr-md-4" href="pl-index.html">EN</a>
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="aboutus.html">About Us...</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="toursguide.html">Tours Guide</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="gallery.html">Gallery</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="shop.html">Shop</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Get in touch</a>
+          </li>
+        </ul>
+      </div>
+      <a class="navbar-brand" href="index.html"><img src="assets/images/section/moto-logo.jpg" alt="moto-logo" height="50"></a>
+    </nav>  
+   </header>
 
   <!--*****ADDING CONTENT TO HOME SECTION*****-->
     <section class="home">
         <div class="container-fluid jumbotron">
             <div class="row justify-content-center text-center mt-5">
               <div class="col-sm-10 col-md-10 col-lg-10">
-                <h1 class="title">Witamy na Bonnie Alba Wyprawy Motocyklowe!!!</h1>
+                <h1 class="title">Witaj na stronie Bonnie Alba Wyprawy Motocyklowe!!!</h1>
                 <hr>
-                <p class="subtext">Szkocja...kraj przyjazny motocyklom!</p>
+                <p class="subtext">Szkocja... kraj stworzony dla motocykli!</p>
                 <hr>
-                <p class="lead">Sign Up for Our Newsletter...</p>
+                <p class="lead">Bądź na bieżąco i dołącz do nas...</p>
                 <hr>
-                <p class="info">Claim £10 voucher and use in our Shop!</p>
+                <p class="info">Odbierz kupon na 100PLN i dokonaj zakupu w naszym sklepie!</p>
                 <hr>
+                 
                 <button type="button" class="signUp-button text-center" data-toggle="modal" data-target="#signUpModal">Sign Up!</button>
               </div>
             </div>
         </div>
-    </section> 
+    </section>
   
+  <!--*****ADDING SIGN UP MODAL*****-->
+    
+    <div class="modal fade" id="signUpModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myModalLabel1">Sign Up for Our Newsletter!</h4>
+                    <button type="button button-close" class="close-button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                      <div class="form-group">
+                        <label for="name" class="form-label">Please enter your full name:</label>
+                          <input type="name" class="form-control" id="inputFullName" name="Full Name" placeholder="Full Name">
+                      </div>
+                      <div class="form-group">
+                        <label for="email" class="form-label">Please enter a valid email-address:</label>
+                          <input type="email" class="form-control" id="inputEmail" name="Email" placeholder="Email">
+                        </div>
+                        <div class="form-group">
+                          <label for="password" class="form-label">Please enter a password:</label>
+                           <input type="password" class="form-control" id="inputpassword" placeholder="Password">
+                             <p class="help-text">Your password must contain a combination of six or more uppercase and lowercase letters, 
+                             plus punctuation and numbers.</p>
+                        </div>
+                        <hr>
+                        <div class="form-group">
+                          <label for="password" class="form-label">Please re-enter your password:</label>
+                           <input type="password" class="form-control" id="inputpasswordRepeat" placeholder="Re-enter Your Password">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="signup-button" data-dismiss="modal">Sign Up!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+   
+   
+   
+   
+    
   <!--*****ADDING FOOTER & SOCIAL MEDIA LINKS*****-->
     <footer class="myfooter">
       <div class="container-fluid">
@@ -81,7 +129,7 @@
             </div>
           </div>
           <div class="col-sm-12">
-              <p class="copyright text-center">© 2019 Bonnie Alba Wyprawy Motocyklowe (Zaprojektowane przez KK dla Code Institute)</p>
+              <p class="copyright text-center">© 2019 Bonnie Scotland Motorcycle Tours (Web design by KK for Code Institute)</p>
           </div>
         </div>
       </div>
@@ -91,6 +139,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="assets/js/library/jquery-3.4.1.min.js"></script>
     <script src="assets/js/library/bootstrap.min.js"></script>
-    <script src="assets/js/modal.js"></script>
+    <script src="assets/js/jquery.fancybox.min.js"></script>
+
 </body>
 </html>
