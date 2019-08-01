@@ -90,6 +90,39 @@ body {
     color: #f5f5dc;
 }
 
+.modal-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #2f4f4f;
+}
+
+.close-button {
+    font-size: 2em;
+    font-weight: bold;
+    color: #ff4500;
+}
+
+.signup-button {
+    background-color: #f5f5dc;;
+    border: 3px solid #ff4500;
+    border-radius: 10px;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #2f4f4f; 
+    padding: 5px;
+    margin: 10px 10px 10px 10px;
+    transition: all .4s ease-in-out;
+   -moz-transition: all .4s ease-in-out;
+   -webkit-transition: all .4s ease-in-out;
+   -o-transition: all .4s ease-in-out;
+    
+}
+
+.signup-button:hover {
+    background-color: #2f4f4f;
+    color: #f5f5dc;
+}
+
 /***---APPLYING STYLE TO ABOUT US CONTENT---***/
 
 .aboutus {
