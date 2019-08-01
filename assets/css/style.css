@@ -297,6 +297,7 @@ body {
 }
 
 
+
 /***---APPLYING STYLE TO SHOP SECTION---***/
 
 .shop {
@@ -658,7 +659,14 @@ body {
         height: 99vh;
         overflow: scroll;
     }
-    
+    .about {
+        margin-top: 180px;
+        font-size: 2.5em;
+    }
+    .par-1,
+    .par-2 {
+        font-size: 2em;
+    }
     .mygallery {
         margin-top: 100px;    
     }
