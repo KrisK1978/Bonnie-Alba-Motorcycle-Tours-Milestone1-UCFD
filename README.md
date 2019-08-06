@@ -68,6 +68,7 @@ The Gallery Page consists several images laid out in columns. The number of colu
 Each photo has a caption and can be clicked to open in a modal window. The user can view the content in a bigger size and the image can be closed by using 'X' sign. The image has a grayscale filter applied and the image scale changes when using a hover function.
 
 **Shop**
+
 The Shop Page gives the user an opportunity to purchase a range of motorcycle products. I used a 'card' component to create the Shop section.
 Each card has the following elements: 
 
@@ -78,27 +79,43 @@ Each card has the following elements:
 •   product price;
 
 •   product description;
+
 •	'Add to Cart' & 'Remove from Cart' buttons (the button's background changes when using a hover function);
+
 •   Subtotal, Tax, Shipping Cost & Total amount;
 
 
 **Get in touch…**
+
 The Get in touch page features a simple contact from which consists the following elements:
+
 •	Full name;
-•	Telephone number;
+
+•   Telephone number;
+
 •	Email address;
+
 •	Reason for Contact;
+
 •	Message box;
+
 •	‘Send’ button;
+
 The form cannot be submitted without completing all fields. If a field is left blank a warning note will pop-out with the following message ‘! Please fill in this field’.
 There is also an address label located below the contact form with the Bonnie Alba Motorcycle Tours contact details. 
 
 ***Features to Implement in future***
+
 In the future, I would like to improve the following sections of the website to make it more attractive and user-friendly: 
+
 •	upgrading the content of About Us section by adding more information;
+
 •	updating the Tours Guide section by adding more tours e.g. enhanced description & detailed maps;
+
 •	upgrading the Gallery section by adding video clips related to Scotland’s best motorcycle routes;
+
 •	adding more products to the Shop section and apply a specific JavaScript function which will automatically calculate the total amount of the purchased items;
+
 •	adding GDPR complaint pop-up screen to Get in touch section
 
 
