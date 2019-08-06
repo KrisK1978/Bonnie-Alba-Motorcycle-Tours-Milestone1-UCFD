@@ -1,21 +1,33 @@
 ***Note***
 
-Bonnie Alba Motorcycle Tours is my very first website created as a part of User Centric Front-End Development. It is my Milestone 1 project and confirmation of my coding skills I had gained since started the Full-Stack Web Developer course provided by Code Institute. 
+
+Bonnie Alba Motorcycle Tours is my very first website created as a part of User Centric Front-End Development. 
+It is my Milestone 1 project and confirmation of my coding skills I had gained since started the Full-Stack Web 
+Developer course provided by Code Institute. 
+
+
 
 ***Demo*** 
 
+
 The website live demo can be found here <a href=" "></a>
+
+
 
 ***UX***
 
+
 1.	My goal:
+
 
 The main purpose for creating Bonnie Alba Motorcycle Tours was to provide helpful information to 
 a specific user/audience, in this case motorcycle enthusiasts who would like to tour Scotland on a motorcycle, 
 but also to any website visitor who wants to learn more about interesting places in Scotland. 
 This website is designed to be easy to navigate and will frequently updated in order to keep users coming back for more information. 
 
+
 2.	Website additional information:
+
 
 •	if a website user would like to have access to a newsletter there will be requirement to complete a sign-in form;
 
@@ -23,9 +35,12 @@ This website is designed to be easy to navigate and will frequently updated in o
 
 •	an access to Shop section with a possibility to purchase motorcycle-related products e.g. helmets or gloves;
 
+
 ***Wireframes***
 
+
 I have used Balsamiq to create wireframe mockups to represent the project’s structure and the way the website would look like.
+
 
 • <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Home%20Page.pdf">Home Page</a>
 
@@ -42,6 +57,7 @@ I have used Balsamiq to create wireframe mockups to represent the project’s st
 
 ***Features***
 
+
 All pages consist a responsive navigation bar with a logo (motorcycle related icon) located in right-top corner.
 When users click on the logo it will return them to the home page (applied in both English and Polish version).
 Each page has a different background-image and an active language-button located in navbar which once tapped will 
@@ -53,18 +69,23 @@ a hover function).
 
 **Home Page**
 
+
 The Home Page features a motorcycle-related image (background) which was converted to grayscale to grab attention and to 
 build a nice connection with the website users. There is also an active 'Sign Up!' button applied on the Home Page. 
 It is a modal's element and when clicked it will provide the user with additional information e.g. a chance to receive 10% 
 voucher to be used in the Shop section.
 
 
+
 **About Us... Page**
+
 
 The About Us... Page has paragraphs added which contain a brief description of Scotland and interesting places to visit.
 
 
+
 **Tours Guide Page**
+
 
 The Tours Guide gives the user an opportunity to access the following information:
 
@@ -77,12 +98,17 @@ The Tours Guide gives the user an opportunity to access the following informatio
 •   tour map (the map extends when clicked, it opens in a new window and has interesting places marked on the map);
 
 
+
 **Gallery Page**
+
 
 The Gallery Page consists several images laid out in columns. The number of columns depend on the type of the device. 
 Each photo has a caption and can be clicked to open in a modal window. The user can view the content in a bigger size and the image can be closed by using 'X' sign. The image has a grayscale filter applied and the image scale changes when using a hover function.
 
+
+
 **Shop Page**
+
 
 The Shop Page gives the user an opportunity to purchase a range of motorcycle products. I used a 'card' component to create the Shop section.
 Each card has the following elements: 
@@ -100,7 +126,9 @@ Each card has the following elements:
 •   Subtotal, Tax, Shipping Cost & Total amount;
 
 
+
 **Get in touch… Page**
+
 
 The Get in touch page features a simple contact from which consists the following elements:
 
@@ -204,6 +232,15 @@ The photos used in the project, including background and gallery images, were ta
 •	https://mallelondon.com 
 
 
+
+***Acknowledgements***
+
+
+I received a motivation and inspiration for this project from my own and my friend's riding experience. I am a motorcycle enthusiast and 
+I had a chance to visit most beautiful places in Scotland. I thought it would be good to share my experience with others who 
+are planning to visit Scotland on the motorbike but would need some practical advice. 
+
+I also received a useful advice and support from my mentor Simen Daehlin who guided me through the project phases.  
 
 
 
