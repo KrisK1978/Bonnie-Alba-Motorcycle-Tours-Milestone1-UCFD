@@ -117,7 +117,7 @@ The Get in touch page features a simple contact from which consists the followin
 •	‘Send’ button;
 
 The form cannot be submitted without completing all fields. If a field is left blank a warning note will
-pop-out with the following message /*‘! Please fill in this field’*/. There is also an address label located 
+pop-out with the following message **‘! Please fill in this field’**. There is also an address label located 
 below the contact form with the Bonnie Alba Motorcycle Tours contact details. 
 
 
@@ -174,3 +174,39 @@ The website is hosted using GitHub pages and can be deployed directly from the
 <a href=”https://github.com/KrisK1978/milestone-project1-bamt-ucfd”>master branch</a>
 Initially the project was developed using the <a href=”https://c9.io/login”>Cloud9</a> 
 IDE but due to a long-planned platform upgrade it had been migrated to a new Amazon Website Services account.
+
+
+***Credits***
+
+
+**Content**
+
+
+The content in the **Home, About Us…, Tours Guide, Gallery, Shop & Get in touch** pages was written by me. 
+
+
+
+**Media**
+
+
+The photos used in the project, including background and gallery images, were taken from:
+
+
+•	https://www.motorcyclescotland.com
+
+
+•	https://www.guidedmotorbiketours.co.uk
+
+
+•	https://dailyrecord.co.uk 
+
+
+•	https://mallelondon.com 
+
+
+
+
+
+**Disclaimer**
+
+Please note the website was created for educational purposes only.
