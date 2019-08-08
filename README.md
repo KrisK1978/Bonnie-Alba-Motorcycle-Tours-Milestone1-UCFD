@@ -10,7 +10,7 @@ Developer course provided by Code Institute.
 ***Demo*** 
 
 
-The website live demo can be found here <a href=" "></a>
+The website live demo can be found here <a href=""></a>
 
 
 
@@ -230,6 +230,9 @@ The photos used in the project, including background and gallery images, were ta
 
 
 •	https://mallelondon.com 
+
+
+•	https://www.mslmagazine.co.uk 
 
 
 
