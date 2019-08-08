@@ -36,6 +36,28 @@ This website is designed to be easy to navigate and will frequently updated in o
 •	an access to Shop section with a possibility to purchase motorcycle-related products e.g. helmets or gloves;
 
 
+
+
+***Client stories***
+
+1.	Client’s (website visitor) expectations:
+
+
+-	As a new visitor, I am expecting to find the website user-friendly and easy to navigate;
+
+-	As a new visitor, I am looking to find the information efficiently;
+
+-	As a new visitor, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit;
+
+-	As a new visitor and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process;
+
+-	As a new visitor, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated;
+
+-	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc. 
+
+
+
+
 ***Wireframes***
 
 
