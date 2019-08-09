@@ -1,4 +1,4 @@
-       <***Testing Details of Bonnie Alba Motorcycle Tours Website***>
+       ***Testing Details of Bonnie Alba Motorcycle Tours Website***
         
 ***1. Project's documentation:***
 
@@ -24,53 +24,56 @@ The following tools have been used to validate specific content of the project:
 ***3. Testing - using Client Stories:***
 
 
-• website visitor can smoothly go through the pages using a user-friendly navbar;
+    • website visitor can smoothly go through the pages using a user-friendly navbar;
 
 
-• the visitor can easily move to a Polish/English version of the website using an action button;
+    • the visitor can easily move to a Polish/English version of the website using an action button;
 
 
-• the website content is not overloaded with a high volume of information, so the visitor can only find what is looking for;
+    • the website content is not overloaded with a high volume of information, so the visitor can only find what is looking for;
 
 
 ***4. Testing - using client stories from UX section of README.md***
 
 
-As a new visitor, I am expecting to find the website user-friendly and easy to navigate;
-
-1.	As a new visitor, I am looking to find the information efficiently;
-
-a)	The navigation bar is easy to locate, and the visitor knows exactly where the information can be found
+1. As a new visitor, I am expecting to find the website user-friendly and easy to navigate;
 
 
-b)	The logo (motorcycle related icon) once tapped will always lead to the Home Page (Strona główna – polish version)
+        a)	The navigation bar is easy to locate, and the visitor knows exactly where the information can be found
 
 
-c)	The language (PL / EN) call to action button will lead to either English or Polish version of the website
+        b)	The logo (motorcycle related icon) once tapped will always lead to the Home Page (Strona główna – polish version)
+
+
+        c)	The language (PL / EN) call to action button will lead to either English or Polish version of the website
 
 
 2.	As a new visitor, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit;
 
-a)	the About Us… (O Nas…) page provides interesting and useful information to the visitor
+
+        a)	the About Us… (O Nas…) page provides interesting and useful information to the visitor
 
 
-b)	the Tours Guide (Przewodnik) page clearly explains what places are worth to visit, and how long the journey would take; there is also a map which will help the visitor to plan the trip thoroughly
+        b)	the Tours Guide (Przewodnik) page clearly explains what places are worth to visit, and how long the journey would take; there is also a map which will help the visitor to plan the trip thoroughly
 
 
 3.	As a new visitor and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process;
 
-a)	The Shop (Sklep) page provides a clear description of the products available for purchase with a straightforward check-out process
+
+        a)	The Shop (Sklep) page provides a clear description of the products available for purchase with a straightforward check-out process
 
 
 
 4.	As a new visitor, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated;
 
-a) 	the Get in touch (Skontaktuj się z nami…)  page offers a clear and easy to complete contact form, it also informs the visitor that the form would need to be fully completed before it can be sent
-    e.g. there will be an error noting if the invalid email address is submitted
+
+         a) the Get in touch (Skontaktuj się z nami…)  page offers a clear and easy to complete contact form, it also informs the visitor that the form would need to be fully completed before it can be sent
+            e.g. there will be an error noting if the invalid email address is submitted
 
 
 
 5.	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.
 
-a)	the footer contains the social media icons e.g. LinkedIn, GitHub (both active), and once tapped the visitor would be redirected to external websites 
+
+        a)	the footer contains the social media icons e.g. LinkedIn, GitHub (both active), and once tapped the visitor would be redirected to external websites 
 
