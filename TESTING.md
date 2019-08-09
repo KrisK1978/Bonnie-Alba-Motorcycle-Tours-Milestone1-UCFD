@@ -36,43 +36,41 @@ The following tools have been used to validate specific content of the project:
 ***4. Testing - using client stories from UX section of README.md***
 
 
+As a new visitor, I am expecting to find the website user-friendly and easy to navigate;
+
+1.	As a new visitor, I am looking to find the information efficiently;
+
+a)	The navigation bar is easy to locate, and the visitor knows exactly where the information can be found
+
+
+b)	The logo (motorcycle related icon) once tapped will always lead to the Home Page (Strona główna – polish version)
+
+
+c)	The language (PL / EN) call to action button will lead to either English or Polish version of the website
+
+
+2.	As a new visitor, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit;
+
+a)	the About Us… (O Nas…) page provides interesting and useful information to the visitor
+
+
+b)	the Tours Guide (Przewodnik) page clearly explains what places are worth to visit, and how long the journey would take; there is also a map which will help the visitor to plan the trip thoroughly
+
+
+3.	As a new visitor and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process;
+
+a)	The Shop (Sklep) page provides a clear description of the products available for purchase with a straightforward check-out process
 
 
 
+4.	As a new visitor, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated;
 
-Testing client stories from UX section of README.md
-As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
+a) 	the Get in touch (Skontaktuj się z nami…)  page offers a clear and easy to complete contact form, it also informs the visitor that the form would need to be fully completed before it can be sent
+    e.g. there will be an error noting if the invalid email address is submitted
 
-No matter what page the new visitor lands on, they can easily find and use the navigation bar.
-The logo image always leads back to the home page (the starting place for most client stories).
-The home page call to action button leads the client through the gallery.
-As a new visitor to the website, I want view this artist's gallery, and view their work in detail so I can decide if I want to commission their work.
 
-At the bottom of the Home page and About page there is a clear call to action button leading the visitor to the gallery.
-A clearly labelled Gallery page is easy to find in the navigation on every page..
-As a visitor to the website, I am curious to know more about the artist, so I can feel I connect with her as a person.
 
-A clearly labelled How to About page is easy to find in the navigation on every page..
-The About page contains photos of the artist in her studio, and short but compelling text about what the artist enjoys about her work.
-As a potential client, I want to know what past clients thought of their artwork and the service they received.
+5.	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.
 
-On the home page, testimonials from past clients are easy to find and to read.
-As a potential client, I want to view expected prices for a portrait, so I can decide if it is within my budget to order.
+a)	the footer contains the social media icons e.g. LinkedIn, GitHub (both active), and once tapped the visitor would be redirected to external websites 
 
-A clearly labelled pricing page is easy to find in the navigation on every page..
-Once the visitor to the website has already been led by call to action buttons from the Home page, and through to the Gallery, they are then led to the Pricing page.
-As an interested client, I want to understand the ordering process, so I know what steps to take next.
-
-A clearly labelled How to Order page is easy to find in the navigation on every page.
-Once the visitor to the website has already been led by call to action buttons from the Home page, and through to the Gallery, and Pricing page, they are then led to the How to Order page.
-The How to Order page clearly and intuitively explains the steps involved in placing an order, using icons to add another level of clear communication to the explanation.
-At the bottom of the How to Order page, the first step in ordering is clearly marked as a call to action button. Which leads to the contact page.
-As an interested client, I want an easy to fill in contact form, so I can make contact with the artist and place my order.
-
-A clearly labelled contact page is easy to find in the website navigation on every page.
-As an interested observer and/or potential client, I want to follow the artist on social media, so I can keep up with her latest news.
-
-5 social media icons can be found in the footer on every page of the website.
-As a returning visitor to the website, who has already decided to contact the artist, I want to be able to request a quote easily.
-
-There is a clearly marked "Request quote" button in the navigation bar, highlighted as a button so that it stands out from all the other menu items. It displays in the top right of desktop and tablet screens, and at the bottom of the dropdown menu on mobiles.
