@@ -108,7 +108,7 @@ Testing steps:
         -	Checked the close ‘X’ button to prove the functionality
         
     
-    c)	**Footer**
+    c)	**Footer** - the code is the same on all HTML pages and was tested accordingly
 
         -	Clicked on the social media icons located on the footer, check if the icons are active and confirm the hover’s functionality 
 
@@ -153,7 +153,33 @@ Testing steps:
 
     c)	**Fancybox**
 
-    -	Checked the Fancybox functionality by clicking on the individual images
+        -	Checked the Fancybox functionality by clicking on the individual images
 
-    -	Testing the images responsiveness by using Developer Tools to check how they respond when using different type of devices 
+        -	Testing the images responsiveness by using Developer Tools to check how they respond when using different type of devices 
 
+
+**5.5 Shop**
+
+
+Testing steps:
+	
+    a)	**Card – including product image, name, description & price**
+
+        -	Developer Tools used to check the responsiveness of the card on different type of devices (Android phone, iPhone, iPad)
+
+b)	**Buttons – Add to Cart & Remove from Cart**
+
+        -	Checked the functionality of both buttons using hover (the background and font-colour change on the individual button)
+
+
+**5.6 Get in touch - Contact Form**
+
+Testing steps:
+	
+a)	**Form Group & Form Control**
+
+        -	Developer Tools used to check the responsiveness of the contact form & address card on different type of devices (Android phone, iPhone, iPad)
+
+b)	**Send button**
+
+        -	Checked the functionality of the 'Send' button using hover (the background and font-colour change)
