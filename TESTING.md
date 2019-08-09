@@ -6,7 +6,7 @@
 
 - <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md">README.md-main file</a>
 
-- <a href=""></a>
+
 
 
 
@@ -17,9 +17,9 @@
 The following tools have been used to validate specific content of the project:
 
 
-•   <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">W3C CSS validation- used to check Cascading Style Sheets (CSS);</a> 
+        •   <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">W3C CSS validation- used to check Cascading Style Sheets (CSS);</a> 
 
-•   <a href="https://validator.w3.org/#validate_by_input">W3C Markup Validation - this validator checks the markup validity of Web documents</a>;
+        •   <a href="https://validator.w3.org/#validate_by_input">W3C Markup Validation - this validator checks the markup validity of Web documents</a>;
 
 
 
@@ -81,14 +81,14 @@ The following tools have been used to validate specific content of the project:
 
 
 
-***Testing the functionality of all elements on every page – Manual Testing***
+***5. Testing the functionality of all elements on every page – Manual Testing***
 
-**Home Page**
+**5.1 Home Page**
 
 
 Testing steps:
 
-    a)	**Navigation Bar** 
+    a)	**Navigation Bar** - the code is the same on all HTML pages and was tested accordingly
 
         -	Home Page entered on a desktop
 
@@ -98,7 +98,7 @@ Testing steps:
 
         -	Checked the functionality of the Logo (motorcycle related icon) to confirm it would redirect to the Home Page
 
-        -	Clicked on the social media icons to check the hover’s functionality 
+
 
     
     b)	**Modal**
@@ -108,8 +108,15 @@ Testing steps:
 
         -	Checked the close ‘X’ button to prove the functionality
         
-        
-**About Us…**
+    
+    c)	**Footer**
+
+        -	Clicked on the social media icons located on the footer, check if the icons are active and confirm the hover’s functionality 
+
+    
+    
+    
+**5.2 About Us…**
 
 
 Testing steps:
@@ -117,5 +124,18 @@ Testing steps:
     a)	**Paragraphs** 
 
         -	Developer Tools used to check the responsiveness of the text and font-size changing on different type of devices (Android phone, iPhone, iPad)
+
+
+**5.3 Tours Guide**
+
+
+Testing steps:
+	
+    a)	**Paragraph**
+
+        -	Developer Tools used to check the responsiveness of the website on different type of devices (Android phone, iPhone, iPad)
+
+
+        -	Clicked on the maps to check if they can be enlarged and opened in a separate window
 
 
