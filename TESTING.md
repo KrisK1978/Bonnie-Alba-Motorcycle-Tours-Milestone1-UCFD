@@ -99,7 +99,6 @@ Testing steps:
         -	Checked the functionality of the Logo (motorcycle related icon) to confirm it would redirect to the Home Page
 
 
-
     
     b)	**Modal**
 
@@ -138,4 +137,23 @@ Testing steps:
 
         -	Clicked on the maps to check if they can be enlarged and opened in a separate window
 
+
+**5.4 Gallery**
+
+
+Testing steps:
+	
+    a)	**Paragraph**
+    
+        -	Developer Tools used to check the responsiveness of the website on different type of devices (Android phone, iPhone, iPad)
+
+    b)	**Images**
+
+        -	Checked the functionality of image filter and scale-transform (the colour of the individual image changes when using the hover element)
+
+    c)	**Fancybox**
+
+    -	Checked the Fancybox functionality by clicking on the individual images
+
+    -	Testing the images responsiveness by using Developer Tools to check how they respond when using different type of devices 
 
