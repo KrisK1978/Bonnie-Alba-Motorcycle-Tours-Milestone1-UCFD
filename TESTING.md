@@ -10,7 +10,7 @@
 
 
 
-***2. Testing - Project Validation***
+***2. Project's Validation***
 
 
 
@@ -26,13 +26,13 @@ The following tools have been used to validate specific content of the project:
 ***3. Testing - using Client Stories:***
 
 
-    • website visitor can smoothly go through the pages using a user-friendly navbar;
+        • website visitor can smoothly go through the pages using a user-friendly navbar;
+        
+
+        • the visitor can easily move to a Polish/English version of the website using an action button;
 
 
-    • the visitor can easily move to a Polish/English version of the website using an action button;
-
-
-    • the website content is not overloaded with a high volume of information, so the visitor can only find what is looking for;
+        • the website content is not overloaded with a high volume of information, so the visitor can only find what is looking for;
 
 
 ***4. Testing - using client stories from UX section of README.md***
@@ -86,7 +86,9 @@ The following tools have been used to validate specific content of the project:
 **Home Page**
 
 
-    a)	**Navigation Bar** – testing steps
+Testing steps:
+
+    a)	**Navigation Bar** 
 
         -	Home Page entered on a desktop
 
@@ -97,3 +99,23 @@ The following tools have been used to validate specific content of the project:
         -	Checked the functionality of the Logo (motorcycle related icon) to confirm it would redirect to the Home Page
 
         -	Clicked on the social media icons to check the hover’s functionality 
+
+    
+    b)	**Modal**
+
+        -	Clicked on ‘Sign Up’ action button to check the functionality of modal and to 
+            Confirm there is a ‘Sign Up form’ available to submit
+
+        -	Checked the close ‘X’ button to prove the functionality
+        
+        
+**About Us…**
+
+
+Testing steps:
+
+    a)	**Paragraphs** 
+
+        -	Developer Tools used to check the responsiveness of the text and font-size changing on different type of devices (Android phone, iPhone, iPad)
+
+
