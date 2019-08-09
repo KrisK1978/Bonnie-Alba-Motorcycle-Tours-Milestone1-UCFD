@@ -1,4 +1,5 @@
-       ***Testing Details of Bonnie Alba Motorcycle Tours Website***
+***Testing Details of Bonnie Alba Motorcycle Tours Website***
+
         
 ***1. Project's documentation:***
 
@@ -9,7 +10,8 @@
 
 
 
-***2. Testing - Validation***
+***2. Testing - Project Validation***
+
 
 
 The following tools have been used to validate specific content of the project:
@@ -77,3 +79,21 @@ The following tools have been used to validate specific content of the project:
 
         a)	the footer contains the social media icons e.g. LinkedIn, GitHub (both active), and once tapped the visitor would be redirected to external websites 
 
+
+
+***Testing the functionality of all elements on every page – Manual Testing***
+
+**Home Page**
+
+
+    a)	**Navigation Bar** – testing steps
+
+        -	Home Page entered on a desktop
+
+        -	Checked each item on Navigation menu to confirm the redirection to the correct page
+
+        -	Developer Tools used to check the responsiveness of the website using different type of devices (Android phone, iPhone, iPad)
+
+        -	Checked the functionality of the Logo (motorcycle related icon) to confirm it would redirect to the Home Page
+
+        -	Clicked on the social media icons to check the hover’s functionality 
