@@ -9,11 +9,13 @@
 - <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD">View project's structure/elements in GitHub</a>
 
 
+
 ***2. Project's Validation***
 
 
 
 The following tools have been used to validate specific content of the project:
+
 
 
 •   <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">W3C CSS validation- used to check Cascading Style Sheets (CSS);</a> 
@@ -22,7 +24,9 @@ The following tools have been used to validate specific content of the project:
 
 
 
+
 ***3. Testing - using Client Stories:***
+
 
 
 • website visitor can smoothly go through the pages using a user-friendly navbar;
@@ -34,10 +38,13 @@ The following tools have been used to validate specific content of the project:
 • the website content is not overloaded with a high volume of information, so the visitor can only find what is looking for;
 
 
+
+
 ***4. Testing - using client stories from UX section of README.md***
 
 
-1. As a new visitor, I am expecting to find the website user-friendly and easy to navigate;
+
+*1. As a new visitor, I am expecting to find the website user-friendly and easy to navigate:*
 
 
 -  the navigation bar is easy to locate, and the visitor knows exactly where the information can be found
@@ -50,7 +57,8 @@ The following tools have been used to validate specific content of the project:
 
 
 
-2.	As a new visitor, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit;
+
+*2.	As a new visitor, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit:*
 
 
 -  the About Us… (O Nas…) page provides interesting and useful information to the visitor
@@ -60,14 +68,16 @@ The following tools have been used to validate specific content of the project:
 
 
 
-3.	As a new visitor and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process;
+
+*3.	As a new visitor and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process:*
 
 
 -  the Shop (Sklep) page provides a clear description of the products available for purchase with a straightforward check-out process
 
 
 
-4.	As a new visitor, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated;
+
+*4.	As a new visitor, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated:*
 
 
 -  the Get in touch (Skontaktuj się z nami…)  page offers a clear and easy to complete contact form, it also informs the visitor that the form would need to be fully completed before it can be sent
@@ -75,7 +85,8 @@ The following tools have been used to validate specific content of the project:
 
 
 
-5.	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.
+
+*5.	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.:*
 
 
 -  the footer contains the social media icons e.g. LinkedIn, GitHub (both active), and once tapped the visitor would be redirected to external websites 
@@ -84,12 +95,16 @@ The following tools have been used to validate specific content of the project:
 
 ***5. Testing the functionality of all elements on every page – Manual Testing***
 
+
+
 **5.1 Home Page**
 
 
 Testing steps:
 
+
 a)	**Navigation Bar** - the code is the same on all HTML pages and was tested accordingly
+
 
 -	Home Page entered on a desktop
 
@@ -104,7 +119,9 @@ a)	**Navigation Bar** - the code is the same on all HTML pages and was tested ac
 
 
 
+
 b)	**Modal**
+
 
 -	Clicked on ‘Sign Up’ action button to check the functionality of modal and to 
     Confirm there is a ‘Sign Up form’ available to submit
@@ -114,7 +131,9 @@ b)	**Modal**
         
 
     
+    
 c)	**Footer** - the code is the same on all HTML pages and was tested accordingly
+
 
 -	Clicked on the social media icons located on the footer, check if the icons are active and confirm the hover’s functionality 
 
@@ -124,19 +143,26 @@ c)	**Footer** - the code is the same on all HTML pages and was tested accordingl
 **5.2 About Us…**
 
 
+
 Testing steps:
+
 
 a)	**Paragraphs** 
 
+
 -	Developer Tools used to check the responsiveness of the text and font-size changing on different type of devices (Android phone, iPhone, iPad)
+
 
 
 **5.3 Tours Guide**
 
 
+
 Testing steps:
 	
+	
 a)	**Paragraph**
+
 
 -	Developer Tools used to check the responsiveness of the website on different type of devices (Android phone, iPhone, iPad)
 
@@ -147,19 +173,26 @@ a)	**Paragraph**
 **5.4 Gallery**
 
 
+
 Testing steps:
 	
+	
 a)	**Paragraph**
+    
     
 -	Developer Tools used to check the responsiveness of the website on different type of devices (Android phone, iPhone, iPad)
 
 
+
 b)	**Images**
+
 
 -	Checked the functionality of image filter and scale-transform (the colour of the individual image changes when using the hover element)
 
 
+
 c)	**Fancybox**
+
 
 -	Checked the Fancybox functionality by clicking on the individual images
 
@@ -167,32 +200,44 @@ c)	**Fancybox**
 -	Testing the images responsiveness by using Developer Tools to check how they respond when using different type of devices 
 
 
+
 **5.5 Shop**
+
 
 
 Testing steps:
 	
+	
 a)	**Card – including product image, name, description & price**
+
 
 -	Developer Tools used to check the responsiveness of the card on different type of devices (Android phone, iPhone, iPad)
 
 
+
 b)	**Buttons – Add to Cart & Remove from Cart**
 
+
 -	Checked the functionality of both buttons using hover (the background and font-colour change on the individual button)
+
 
 
 **5.6 Get in touch - Contact Form**
 
 
+
 Testing steps:
+	
 	
 a)	**Form Group & Form Control**
 
+
 -	Developer Tools used to check the compatibility and responsiveness of the contact form & address card, the website was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices (Android phone, iPhone, iPad)
+
 
     
 b)	**Send button**
+
 
 -	Checked the functionality of the 'Send' button using hover (the background and font-colour change)
 
@@ -201,6 +246,7 @@ b)	**Send button**
 
         
 -   Tried to submit the form with an invalid email address and received the error message as expeceted
+
 
 
 
