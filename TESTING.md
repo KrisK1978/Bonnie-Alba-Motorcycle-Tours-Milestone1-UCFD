@@ -167,19 +167,26 @@ Testing steps:
 
         -	Developer Tools used to check the responsiveness of the card on different type of devices (Android phone, iPhone, iPad)
 
-b)	**Buttons – Add to Cart & Remove from Cart**
+    b)	**Buttons – Add to Cart & Remove from Cart**
 
         -	Checked the functionality of both buttons using hover (the background and font-colour change on the individual button)
 
 
 **5.6 Get in touch - Contact Form**
 
+
 Testing steps:
 	
-a)	**Form Group & Form Control**
+    a)	**Form Group & Form Control**
 
-        -	Developer Tools used to check the responsiveness of the contact form & address card on different type of devices (Android phone, iPhone, iPad)
+        -	Developer Tools used to check the compatibility and responsiveness of the contact form & address card, the website was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices (Android phone, iPhone, iPad)
 
-b)	**Send button**
+    b)	**Send button**
 
         -	Checked the functionality of the 'Send' button using hover (the background and font-colour change)
+
+
+
+***The testing was also carried out on the Polish version of the website***
+
+
