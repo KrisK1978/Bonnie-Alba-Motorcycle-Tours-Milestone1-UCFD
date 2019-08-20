@@ -202,7 +202,7 @@ The following technologies have been used in the project completion process:
 
 •   CSS which describes how HTML elements should be displayed on the screen 
 
-•   <a href="">AWS Educate - Cloud9</a>used for building the website
+•   <a href="https://aws.amazon.com/?nc2=h_lg">AWS Educate - Cloud9</a> used for building the website
 
 •   <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">BootstrapCDN v4.3.1</a> to make the website responsive and user-friendly
 
@@ -210,11 +210,13 @@ The following technologies have been used in the project completion process:
 
 •   <a href="https://fonts.google.com/">Google Fonts</a> responsible for styling the website fonts 
 
-•   <a href="https://fancyapps.com/fancybox/3/">Fancybox</a>used for a gallery modal popup to view gallery images.
+•   <a href="https://autoprefixer.github.io/">Autoprefixer</a> to add vendor prefixes to CSS and make sure the CSS code is valid for all browsers
 
-•   jQuery v3.4.1 to standardize and simplify interactions between HTML elements and JavaScript code
+•   <a href="https://fancyapps.com/fancybox/3/">Fancybox</a> used for a gallery modal popup to view gallery images.
 
-•   <a href="https://cdnjs.com/libraries/popper.js/1.14.7">Popper.js</a>to calculate the position of an element and required for the responsive navbar
+•   <a href="https://jquery.com/download/">jQuery v3.4.1</a> to standardize and simplify interactions between HTML elements and JavaScript code
+
+•   <a href="https://cdnjs.com/libraries/popper.js/1.14.7">Popper.js</a> to calculate the position of an element and required for the responsive navbar
 
 
 

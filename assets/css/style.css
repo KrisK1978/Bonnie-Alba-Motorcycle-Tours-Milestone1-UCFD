@@ -277,6 +277,8 @@ body {
     width: 180px;
     max-width: 100%;
     cursor: pointer;
+    -webkit-transition: 0.6s;
+    -o-transition: 0.6s;
     transition: 0.6s;
     border: 4px solid #f8f8ff;
     border-radius: 10px;
@@ -285,7 +287,9 @@ body {
 }
 
 .myimages img:hover { 
-    transform: scale(1.3);
+    -webkit-transform: scale(1.3); 
+        -ms-transform: scale(1.3); 
+            transform: scale(1.3);
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
 }
@@ -336,7 +340,8 @@ body {
     max-width: 100%;
     background: #fffff0;
     width: 180px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     border: 3px solid #778899;
     border-radius: 10px;
     display: inline-block;
@@ -544,7 +549,8 @@ body {
     color: #2f4f4f;
     border: 7px solid #f8f8ff;
     border-radius: 50px;
-    box-shadow: 0 30px 20px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 30px 20px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 30px 20px rgba(0, 0, 0, 0.3);
     transition: all .4s ease-in-out;
    -moz-transition: all .4s ease-in-out;
    -webkit-transition: all .4s ease-in-out;
@@ -554,27 +560,37 @@ body {
 /***---APPLYING INDIVIDUAL COLOR TO SOCIAL MEDIA LINKS ICONS WHEN USING HOVER---***/
 
 .fa-pinterest-square:hover {
-    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+            transform: scale(1.3);
     background-color: #7fffd4; 
 }
 
 .fa-facebook-square:hover {
-    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+            transform: scale(1.3);
     background-color: #da70d6; 
 }
 
 .fa-instagram:hover {
-    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+            transform: scale(1.3);
     background-color: #d2691e; 
 }
 
 .fa-github-alt:hover {
-    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+            transform: scale(1.3);
     background-color: #adff2f; 
 }
 
 .fa-linkedin:hover {
-    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+            transform: scale(1.3);
     background-color: #ffff00; 
 }
 
