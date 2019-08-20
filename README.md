@@ -218,7 +218,7 @@ The following technologies have been used in the project completion process:
 
 •   <a href="https://cdnjs.com/libraries/popper.js/1.14.7">Popper.js</a> to calculate the position of an element and required for the responsive navbar
 
-
+•   <a href="https://www.favicon-generator.org/">Favicon</a> to represent the website
 
 ***Project Testing***
 
