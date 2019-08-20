@@ -184,9 +184,18 @@ Testing steps:
     b)	**Send button**
 
         -	Checked the functionality of the 'Send' button using hover (the background and font-colour change)
+        
+        -   Tried to submit a blank form and received an error message about the requested fields appeared
+        
+        -   Tried to submit the form with an invalid email address and received the error message as expeceted
 
 
 
 ***The testing was also carried out on the Polish version of the website***
 
 
+
+***Additional Testing***
+
+The website was tested by my fellow Code Institute students, family members and friends. I asked to review the 
+content of the website and had been advised the font-size and font-colour could be different. 
