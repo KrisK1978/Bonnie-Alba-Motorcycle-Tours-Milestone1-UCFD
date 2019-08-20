@@ -202,15 +202,19 @@ The following technologies have been used in the project completion process:
 
 •   CSS which describes how HTML elements should be displayed on the screen 
 
-•   BootstrapCDN v4.3.1 to make the website responsive and user-friendly
+•   <a href="">AWS Educate - Cloud9</a>used for building the website
 
-•   Font Awesome v4.7.0 to control the way the icon looks  
+•   <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">BootstrapCDN v4.3.1</a> to make the website responsive and user-friendly
 
-•   Google Fonts responsible for styling the website fonts 
+•   <a href="https://cdnjs.com/libraries/font-awesome/5.8.2">Font Awesome v5.8.2</a> to control the way the icon looks  
+
+•   <a href="https://fonts.google.com/">Google Fonts</a> responsible for styling the website fonts 
+
+•   <a href="https://fancyapps.com/fancybox/3/">Fancybox</a>used for a gallery modal popup to view gallery images.
 
 •   jQuery v3.4.1 to standardize and simplify interactions between HTML elements and JavaScript code
 
-•   Popper.js to calculate the position of an element and required for the responsive navbar
+•   <a href="https://cdnjs.com/libraries/popper.js/1.14.7">Popper.js</a>to calculate the position of an element and required for the responsive navbar
 
 
 

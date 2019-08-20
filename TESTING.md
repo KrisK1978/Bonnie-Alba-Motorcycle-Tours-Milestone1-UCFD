@@ -6,8 +6,7 @@
 
 - <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md">README.md-main file</a>
 
-
-
+- <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD">View project's structure/elements in GitHub</a>
 
 
 ***2. Project's Validation***
@@ -191,11 +190,13 @@ Testing steps:
 
 
 
-***The testing was also carried out on the Polish version of the website***
-
-
-
 ***Additional Testing***
 
-The website was tested by my fellow Code Institute students, family members and friends. I asked to review the 
-content of the website and had been advised the font-size and font-colour could be different. 
+
+*The website was tested by my fellow Code Institute students, family members and 
+friends. I asked to review the content of the website and had been advised the 
+font-size and font-colour could be different (changes had been applied as 
+suggested).*
+
+
+*The testing was also carried out on the Polish version of the website.*
