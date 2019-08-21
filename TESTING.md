@@ -259,4 +259,5 @@ font-size and font-colour could be different (changes had been applied as
 suggested).*
 
 
+
 *The testing was also carried out on the Polish version of the website.*
