@@ -9,6 +9,7 @@ body {
     background: #d3d3d3;
     font-family: 'Indie Flower', cursive;
     font-size: 1rem;
+    filter: grayscale(70%);
 }
 
 
@@ -252,7 +253,6 @@ body {
    
 }
 
-
 .myimages img {
     width: 180px;
     max-width: 100%;
@@ -275,7 +275,6 @@ body {
 }
 
 .myimages p  {
-    font-size: 1em;
     font-weight: bold;
     color: #fffafa;
 }
@@ -426,13 +425,13 @@ body {
 }
 
 .button {
-    background-color: #2f4f4f;
+    background-color: #dcdcdc;
     border: 4px solid #f8f8ff;
     border-radius: 10px;
-    font-size: 1em;
+    font-size: 1.1rem;
     font-weight: bold;
-    color: #f5f5dc;  
-    padding: 3px;
+    color: #2f4f4f;  
+    padding: 7px;
     transition: all .4s ease-in-out;
    -moz-transition: all .4s ease-in-out;
    -webkit-transition: all .4s ease-in-out;
@@ -440,8 +439,8 @@ body {
 }
 
 .button:hover {
-    background-color: #f5f5dc;
-    color: #2f4f4f;
+    background-color: #2f4f4f;
+    color: #f5f5dc;
 }
 
 .address {
@@ -525,8 +524,8 @@ body {
 /***---APPLYING STYLE TO COPYRIGHT TEXT---***/
 
 .copyright {
-    margin: 0px;
-    font-size: 1em;
+    margin: 0px; 
+    font-size: 1.1rem;
     font-weight: bold;
     font-style: oblique;
     color: #2f4f4f;
@@ -603,13 +602,14 @@ body {
         height: 99vh;
         overflow: scroll;
     }
+    
     .about {
         margin-top: 180px;
-        font-size: 2.5em;
+        font-size: 1.5rem;
     }
     .par-1,
     .par-2 {
-        font-size: 1.5em;
+        font-size: 1.3rem;
     }
     .mygallery {
         margin-top: 100px;    
