@@ -198,13 +198,12 @@ In the future, I would like to improve the following sections of the website to 
 
 The following technologies have been used in the project completion process:
 
-•   HTML5 which defines the properties and behaviours of web page content  
+•   HTML which defines the properties and behaviours of web page content  
 
 •   CSS which describes how HTML elements should be displayed on the screen 
 
-•   <a href="https://aws.amazon.com/?nc2=h_lg">AWS Educate - Cloud9</a> used for building the website
 
-•   <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">BootstrapCDN v4.3.1</a> to make the website responsive and user-friendly
+•   <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">Bootstrap v4.3.1</a> to make the website responsive and user-friendly
 
 •   <a href="https://cdnjs.com/libraries/font-awesome/5.8.2">Font Awesome v5.8.2</a> to control the way the icon looks  
 
@@ -219,6 +218,7 @@ The following technologies have been used in the project completion process:
 •   <a href="https://cdnjs.com/libraries/popper.js/1.14.7">Popper.js</a> to calculate the position of an element and required for the responsive navbar
 
 •   <a href="https://www.favicon-generator.org/">Favicon</a> to represent the website
+
 
 ***Project Testing***
 
