@@ -9,7 +9,7 @@ body {
     background: #d3d3d3;
     font-family: 'Indie Flower', cursive;
     font-size: 1rem;
-    filter: grayscale(70%);
+    filter: grayscale(60%);
 }
 
 
@@ -90,7 +90,11 @@ body {
 
 /***---STYLING SIGN UP FORM MODAL---***/
 
+
+
+
 .modal-title {
+    font-size: 1.1rem;
     font-weight: bold;
     color: #4b0082;
 }
@@ -303,17 +307,16 @@ body {
 
 .shopping-text {
     margin-top: 10px;
-    font-size: 1.3em;
+    font-size: 1.3rem;
     font-weight: bold;
     color: #fafafa;
 }
 
 .shopping-offer {
-    font-size: 1em;
     font-weight: bold;
-    color: #4b0082;
+    font-size: 1.1rem;
+    color: #2f4f4f;
 }
-
 
 .card {
     max-width: 100%;
@@ -550,7 +553,7 @@ body {
     .jumbotron {
         margin-top: 40px;
     }
-   
+  
 }
 
 
@@ -567,8 +570,6 @@ body {
         overflow: scroll;
     }
     
-    
-   
 }
 
 /***---Medium devices (tablets, 768px and up)---***/
@@ -584,8 +585,6 @@ body {
         height: 99vh;
         overflow: scroll;
     }
-    
-    
     
 }
 
