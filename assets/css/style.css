@@ -12,10 +12,6 @@ body {
     filter: grayscale(60%);
 }
 
-.container-fluid {
-    width: 99vw;
-    height: 99vh;;
-}
 .navbar-collapse {
     text-align: center;
 }
@@ -561,7 +557,6 @@ body {
 
 @media (min-width: 576px) and (max-width: 767.98px) {
     .home,
-    .aboutus,
     .tours,
     .gallery,
     .shop,
