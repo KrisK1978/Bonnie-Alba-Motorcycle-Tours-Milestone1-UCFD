@@ -1,4 +1,4 @@
-/***---IMPORTING FONTS STYLE---***/
+/*IMPORTING FONTS STYLE*/
 
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
 
@@ -33,7 +33,7 @@ body {
     background-color: #dc143c;
 }
 
-/***---STYLING HOME CONTENT---***/
+/*STYLING HOME CONTENT*/
 
 .home {
     background-attachment: fixed;
@@ -47,7 +47,7 @@ body {
     z-index: 1;
 }
 
-/***---STYLING HOME SECTION CONTENT---***/
+/*STYLING HOME SECTION CONTENT*/
 
 .jumbotron {
     border: 3px solid #2f4f4f;
@@ -88,10 +88,7 @@ body {
     color: #f5f5dc;
 }
 
-/***---STYLING SIGN UP FORM MODAL---***/
-
-
-
+/*STYLING SIGN UP FORM MODAL*/
 
 .modal-title {
     font-size: 1.1rem;
@@ -136,7 +133,7 @@ body {
     color: #f5f5dc;
 }
 
-/***---APPLYING STYLE TO ABOUT US CONTENT---***/
+/*APPLYING STYLE TO ABOUT US CONTENT*/
 
 .aboutus {
     background-attachment: fixed;
@@ -166,7 +163,7 @@ body {
 }
 
 
-/***---APPLYING STYLE TO TOURS GUIDE CONTENT---***/
+/*APPLYING STYLE TO TOURS GUIDE CONTENT*/
 
 .tours {
     background-attachment: fixed;
@@ -224,7 +221,7 @@ body {
 }
 
 
-/***---ADDING STYLE TO GALLERY---***/
+/*ADDING STYLE TO GALLERY*/
 
 .gallery {
      background-attachment: fixed;
@@ -284,8 +281,7 @@ body {
 }
 
 
-
-/***---APPLYING STYLE TO SHOP SECTION---***/
+/*APPLYING STYLE TO SHOP SECTION*/
 
 .shop {
     background-attachment: fixed;
@@ -399,7 +395,7 @@ body {
 
 
 
-/***---STYLING CONTACT FORM---***/
+/*STYLING CONTACT FORM*/
 
 .contact {
     background-attachment: fixed;
@@ -464,7 +460,7 @@ body {
 }
 
 
-/***---ADDING STYLES TO FOOTER---***/
+/*ADDING STYLES TO FOOTER*/
 
 .myfooter {
     position: relative;
@@ -487,7 +483,7 @@ body {
    -o-transition: all .4s ease-in-out;
 }
 
-/***---APPLYING INDIVIDUAL COLOR TO SOCIAL MEDIA LINKS ICONS WHEN USING HOVER---***/
+/*APPLYING INDIVIDUAL COLOR TO SOCIAL MEDIA LINKS ICONS WHEN USING HOVER*/
 
 .fa-pinterest-square:hover {
     -webkit-transform: scale(1.3);
@@ -524,7 +520,7 @@ body {
     background-color: #ffff00; 
 }
 
-/***---APPLYING STYLE TO COPYRIGHT TEXT---***/
+/*APPLYING STYLE TO COPYRIGHT TEXT*/
 
 .copyright {
     margin: 0px; 
@@ -534,10 +530,11 @@ body {
     color: #2f4f4f;
 }
 
-/***---MEDIA QUERIES---***/
+/*MEDIA QUERIES*/
 
 
-/***---EXTRA SMALL DEVICES (portrait phones, less than 576px)---***/
+/*EXTRA SMALL DEVICES (portrait phones, less than 576px)*/
+
 @media (max-width: 575.98px) { 
     .home,
     .aboutus,
@@ -557,7 +554,8 @@ body {
 }
 
 
-/***---Small devices (landscape phones, 576px and up)---***/
+/*SMALL DEVICES (landscape phones, 576px and up)*/
+
 @media (min-width: 576px) and (max-width: 767.98px) {
     .home,
     .aboutus,
@@ -572,7 +570,8 @@ body {
     
 }
 
-/***---Medium devices (tablets, 768px and up)---***/
+/*MEDIUM DEVICES (tablets, 768px and up)*/
+
 @media (min-width: 768px) and (max-width: 991.98px) {
     
     .home,
@@ -588,7 +587,8 @@ body {
     
 }
 
-/***---Large devices (desktops, 992px and up)---***/
+/*LARGE DEVICES (desktops, 992px and up)*/
+
 @media (min-width: 992px) and (max-width: 1400px) {
     
     .home,
