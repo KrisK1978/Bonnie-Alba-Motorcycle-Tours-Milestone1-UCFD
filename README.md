@@ -2,7 +2,7 @@
 
 
 **Bonnie Alba Motorcycle Tours** is my very first website created as a part of **User Centric Front-End Development**. 
-It is my **Milestone 1 Project** and confirmation of my coding skills I had gained since started the Full-Stack Web 
+It is my *Milestone 1 Project* and confirmation of my coding skills I had gained since started the Full-Stack Web 
 Developer course provided by [**Code Institute**](https://codeinstitute.net/). 
 
 
@@ -61,23 +61,23 @@ I have used Balsamiq to create wireframe mockups to represent the project’s st
 
 * [**ABOUT US...**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/About%20Us%20Page.pdf)
 
-* [**TOURS GUIDE**](href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Tours%20Guide%20Page.pdf)
+* [**TOURS GUIDE**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Tours%20Guide%20Page.pdf)
 
-* [**GALLERY**](href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Gallery%20Page.pdf)
+* [**GALLERY**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Gallery%20Page.pdf)
 
-* [**SHOP**](href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Shop%20Page.pdf)
+* [**SHOP**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Shop%20Page.pdf)
 
-* [**GET IN TOUCH...**](href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Get%20in%20Touch.pdf)
+* [**GET IN TOUCH...**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Get%20in%20Touch.pdf)
 
 
 ## Features
 
 
-All pages consist a responsive navigation bar with a logo (motorcycle related icon) located in right-top corner.
-When users click on the logo it will return them to the home page (applied in both English and Polish version).
+All pages consist a **responsive navigation bar** with a **logo** (motorcycle related icon) located in right-top corner.
+When users click on the logo it will return them to the **Home** page (applied in both English and Polish version).
 Each page has a different background-image and an active language-button located in navbar which once tapped will 
 transfer the user to Polish version of the website. This will give the non-English speaker users an opportunity to 
-access information in their native language. The footer has a copyright information and social media icons which will 
+access information in their native language. The footer has a **copyright information** and **social media** icons which will 
 link the user to the website owner social media pages (the size and colour of social media icons will change when using 
 a hover function).
 
@@ -85,8 +85,8 @@ a hover function).
 #### Home
 
 
-The Home Page features a motorcycle-related image (background) which was converted to grayscale to grab attention and to 
-build a nice connection with the website users. There is also an active 'Sign Up!' button applied on the Home Page. 
+*The Home* page features a motorcycle-related image (background) which was converted to grayscale to grab attention and to 
+build a nice connection with the website users. There is also an active **'Sign Up!** button applied on the Home Page. 
 It is a modal's element and when clicked it will provide the user with additional information e.g. a chance to receive 10% 
 voucher to be used in the Shop section.
 
@@ -95,69 +95,68 @@ voucher to be used in the Shop section.
 #### About Us...
 
 
-The About Us... Page has paragraphs added which contain a brief description of Scotland and interesting places to visit.
+*The About Us...* page has paragraphs added which contain a brief description of Scotland and interesting places to visit.
 
 
 
 #### Tours Guide
 
 
-The Tours Guide gives the user an opportunity to access the following information:
+*The Tours Guide* gives the user an opportunity to access the following information:
 
-•   tour destination and duration;
+*   tour destination and duration;
 
-•   tour description;
+*   tour description;
 
-•   places worth to visit;
+*   places worth to visit;
 
-•   tour map (the map extends when clicked, it opens in a new window and has interesting places marked on the map);
+*   tour map (the map extends when clicked, it opens in a new window and has interesting places marked on the map);
 
 
 
 #### Gallery
 
 
-The Gallery Page consists several images laid out in columns. The number of columns depend on the type of the device. 
-Each photo has a caption and can be clicked to open in a modal window. The user can view the content in a bigger size and the image can be closed by using 'X' sign. The image has a grayscale filter applied and the image scale changes when using a hover function.
+*The Gallery* page consists several images laid out in columns. The number of columns depend on the type of the device. 
+Each photo has a caption and can be clicked to open in a modal window. The user can view the content in a bigger size 
+and the image can be closed by using **'X'** sign. The image has a grayscale filter applied and the image scale changes when using a **hover** function.
 
 
 
 ### Shop
 
 
-The Shop Page gives the user an opportunity to purchase a range of motorcycle products. I used a 'card' component to create the Shop section.
+*The Shop* page gives the user an opportunity to purchase a range of motorcycle products. I used a **'card'** component to create the Shop section.
 Each card has the following elements: 
 
-•   product image (each image will extend its size when clicked, modal function applied);
+*   product image (each image will extend its size when clicked, modal function applied)
 
-•   product title;
+*   product title
 
-•   product price;
+*   product price
 
-•   product description;
+*   product description
 
-•	'Add to Cart' & 'Remove from Cart' buttons (the button's background changes when using a hover function);
-
-•   Subtotal, Tax, Shipping Cost & Total amount;
+*	**'Add to Cart'** & **'Remove from Cart'** buttons (the button's background changes when using a hover function)
 
 
 
 #### Get in touch...
 
 
-The Get in touch page features a simple contact from which consists the following elements:
+*The Get in touch* page features a simple contact from which consists the following elements:
 
-•	Full name;
+*	Full name
 
-•   Telephone number;
+*   Telephone number
 
-•	Email address;
+*	Email address
 
-•	Reason for Contact;
+*	Reason for Contact
 
-•	Message box;
+*	Message box
 
-•	‘Send’ button;
+*	**‘Send’** button
 
 The form cannot be submitted without completing all fields. If a field is left blank a warning note will
 pop-out with the following message **‘! Please fill in this field’**. There is also an address label located 
@@ -165,109 +164,107 @@ below the contact form with the Bonnie Alba Motorcycle Tours contact details.
 
 
 
-***Features to Implement in future***
+## Features to Implement in future
 
 
-In the future, I would like to improve the following sections of the website to make it more attractive and user-friendly: 
+In the future, I would like to improve the following sections of the website to make it more attractive and user-friendly:
 
-•	upgrading the content of About Us section by adding more information;
+*	upgrading the content of About Us section by adding more information
 
-•	updating the Tours Guide section by adding more tours e.g. enhanced description & detailed maps;
+*	updating the Tours Guide section by adding more tours e.g. enhanced description & detailed maps
 
-•	upgrading the Gallery section by adding video clips related to Scotland’s best motorcycle routes;
+*	upgrading the Gallery section by adding video clips related to Scotland’s best motorcycle routes
 
-•	adding more products to the Shop section and apply a specific JavaScript function which will automatically calculate the total amount of the purchased items;
+*	adding more products to the Shop section and apply a specific JavaScript function which will automatically calculate the total amount of the purchased items (Subtotal, Tax, Shipping Cost & Total amount)
 
-•	adding GDPR complaint pop-up screen to Get in touch section
+*	adding GDPR complaint pop-up screen to Get in touch section
 
 
 
-***Technologies Used***
+## Technologies Used
 
 
 The following technologies have been used in the project completion process:
 
-•   HTML which defines the properties and behaviours of web page content  
+•   **HTML** which defines the properties and behaviours of web page content  
 
-•   CSS which describes how HTML elements should be displayed on the screen 
+•   **CSS** which describes how HTML elements should be displayed on the screen 
 
+•   [**Bootstrap**](https://getbootstrap.com/) *to make the website responsive and user-friendly*
 
-•   <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">Bootstrap v4.3.1</a> to make the website responsive and user-friendly
+•   [**Font Awesome**](https://cdnjs.com/libraries/font-awesome) *to control the way the icon looks*  
 
-•   <a href="https://cdnjs.com/libraries/font-awesome/5.8.2">Font Awesome v5.8.2</a> to control the way the icon looks  
+•   [**Google Fonts**](https://fonts.google.com/) *responsible for styling the website fonts*
 
-•   <a href="https://fonts.google.com/">Google Fonts</a> responsible for styling the website fonts 
+•   [**Autoprefixer**](https://autoprefixer.github.io/) *to add vendor prefixes to CSS and make sure the CSS code is valid for all browsers*
 
-•   <a href="https://autoprefixer.github.io/">Autoprefixer</a> to add vendor prefixes to CSS and make sure the CSS code is valid for all browsers
+•   [**Fancybox**](https://fancyapps.com/fancybox/3/) *used for a gallery modal popup to view gallery images*
 
-•   <a href="https://fancyapps.com/fancybox/3/">Fancybox</a> used for a gallery modal popup to view gallery images.
+•   [**jQuery**](https://jquery.com/download/) *to standardize and simplify interactions between HTML elements and JavaScript code*
 
-•   <a href="https://jquery.com/download/">jQuery v3.4.1</a> to standardize and simplify interactions between HTML elements and JavaScript code
+•   [**Popper.js**](https://cdnjs.com/libraries/popper.js) *to calculate the position of an element and required for the responsive navbar*
 
-•   <a href="https://cdnjs.com/libraries/popper.js/1.14.7">Popper.js</a> to calculate the position of an element and required for the responsive navbar
-
-•   <a href="https://www.favicon-generator.org/">Favicon</a> to represent the website
-
-
-***Project Testing***
+•   [**Favicon**](https://www.favicon-generator.org) *to represent the website*
 
 
-More information about the project testing can be found in 
+## Project Testing
+
+
+More information about the project testing can be found in [**TESTING.md**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/TESTING.md) file.
 
 
 
-***Deployment***
+## Deployment
 
 
 The website is hosted using GitHub pages and can be deployed directly from the 
-<a href=”https://github.com/KrisK1978/milestone-project1-bamt-ucfd”>master branch</a>
+[**master branch**](https://github.com/KrisK1978/milestone-project1-bamt-ucfd).
 Initially the project was developed using the <a href=”https://c9.io/login”>Cloud9</a> 
 IDE but due to a long-planned platform upgrade it had been migrated to a new Amazon Website Services account.
 
 
-***Credits***
+## Credits
 
 
-**Content**
+## Content
 
 
-The content in the **Home, About Us…, Tours Guide, Gallery, Shop & Get in touch** pages was written by me. 
+The content in the pages was written by me. 
 
 
-
-**Media**
+## Media
 
 
 The photos used in the project, including background and gallery images, were taken from:
 
 
-•	https://www.motorcyclescotland.com
+*	[**Motorcycle Scotland**](https://www.motorcyclescotland.com)
 
 
-•	https://www.guidedmotorbiketours.co.uk
+*	[**Guide Motorbike Tours**](https://www.guidedmotorbiketours.co.uk)
 
 
-•	https://dailyrecord.co.uk 
+*	[**Daily Record**](https://dailyrecord.co.uk) 
 
 
-•	https://mallelondon.com 
+*	[**Malle London**](https://mallelondon.com)
 
 
-•	https://www.mslmagazine.co.uk 
+*	[**MSL Magazine**](https://www.mslmagazine.co.uk) 
 
 
 
-***Acknowledgements***
+## Acknowledgements
 
 
 I received a motivation and inspiration for this project from my own and my friend's riding experience. I am a motorcycle enthusiast and 
 I had a chance to visit most beautiful places in Scotland. I thought it would be good to share my experience with others who 
 are planning to visit Scotland on the motorbike but would need some practical advice. 
 
-I also received a useful advice and support from my mentor Simen Daehlin who guided me through the project phases.  
+I also received a very useful advice and support from my mentor [**Simen Daehlin**](https://github.com/Eventyret) who guided me through the project phases.  
 
 
 
-**Disclaimer**
+## Disclaimer
 
 Please note the website was created for educational purposes only.
