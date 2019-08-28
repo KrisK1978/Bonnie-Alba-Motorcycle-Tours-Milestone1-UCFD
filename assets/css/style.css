@@ -581,7 +581,7 @@ body {
     .shop,
     .contact {
         width: 99vw;
-        height: 99vh;
+        height: 99%;
         overflow: scroll;
     }
     

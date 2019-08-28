@@ -1,17 +1,15 @@
 
-***Bonnie Alba Motorcycle Tours - README.md file***
+# BONNIE ALBA MOTORCYCLE TOURS
 
 
-***Note***
-
-
-Bonnie Alba Motorcycle Tours is my very first website created as a part of User Centric Front-End Development. 
+**Bonnie Alba Motorcycle Tours** is my very first website created as a part of **User Centric Front-End Development**. 
 It is my Milestone 1 project and confirmation of my coding skills I had gained since started the Full-Stack Web 
-Developer course provided by Code Institute. 
+Developer course provided by [Code Institute](https://codeinstitute.net/). 
 
 
 
-***Demo*** 
+## Demo
+***
 
 
 The website live demo can be found <a href="https://krisk1978.github.io/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/">***here***</a>
