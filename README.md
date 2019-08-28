@@ -1,85 +1,76 @@
-
 # BONNIE ALBA MOTORCYCLE TOURS
 
 
 **Bonnie Alba Motorcycle Tours** is my very first website created as a part of **User Centric Front-End Development**. 
-It is my Milestone 1 project and confirmation of my coding skills I had gained since started the Full-Stack Web 
-Developer course provided by [Code Institute](https://codeinstitute.net/). 
+It is my **Milestone 1 Project** and confirmation of my coding skills I had gained since started the Full-Stack Web 
+Developer course provided by [**Code Institute**](https://codeinstitute.net/). 
 
 
 
 ## Demo
-***
+
+The website live demo can be found [**_here_**](https://krisk1978.github.io/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/).
 
 
-The website live demo can be found <a href="https://krisk1978.github.io/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/">***here***</a>
+## UX
 
-
-
-***UX***
-
-
-1.	My goal:
+#### 1.	My goal:
 
 
 The main purpose for creating Bonnie Alba Motorcycle Tours was to provide helpful information to 
-a specific user/audience, in this case motorcycle enthusiasts who would like to tour Scotland on a motorcycle, 
+a specific **user/audience**, in this case motorcycle enthusiasts who would like to tour Scotland on a motorcycle, 
 but also to any website visitor who wants to learn more about interesting places in Scotland. 
-This website is designed to be easy to navigate and will frequently updated in order to keep users coming back for more information. 
+This website is designed to be easy to navigate and will frequently be updated in order to keep users coming back for more information. 
 
 
-2.	Website additional information:
+#### 2.	Website additional information:
 
 
-•	if a website user would like to have access to a newsletter there will be requirement to complete a sign-in form;
+* if a website user would like to have access to a newsletter there will be requirement to complete a sign-in form;
 
-•	the website is available in both English and Polish language;
+* the website is available in both **English** and **Polish** language;
 
-•	an access to Shop section with a possibility to purchase motorcycle-related products e.g. helmets or gloves;
-
-
+* an access to Shop section with a possibility to purchase motorcycle-related products e.g. helmets or gloves;
 
 
-***Client stories***
+### User stories
 
-1.	Client’s (website visitor) expectations:
-
-
--	As a new visitor, I am expecting to find the website user-friendly and easy to navigate;
-
--	As a new visitor, I am looking to find the information efficiently;
-
--	As a new visitor, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit;
-
--	As a new visitor and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process;
-
--	As a new visitor, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated;
-
--	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc. 
+#### 1.	User’s (website visitor) expectations:
 
 
+-	As a new **visitor**, I am expecting to find the website user-friendly and easy to navigate;
+
+-	As a new **visitor**, I am looking to find the information efficiently;
+
+-	As a new **visitor**, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit;
+
+-	As a new **visitor** and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process;
+
+-	As a new **visitor**, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated;
+
+-	As a new **visitor**, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc. 
 
 
-***Wireframes***
+### Wireframes
 
 
 I have used Balsamiq to create wireframe mockups to represent the project’s structure and the way the website would look like.
 
 
-• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Home%20Page.pdf">Home Page</a>
+* [**HOME**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Home%20Page.pdf)
 
-• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/About%20Us%20Page.pdf">About Us...</a>
+* [**ABOUT US...**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/About%20Us%20Page.pdf)
 
-• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Tours%20Guide%20Page.pdf">Tours Guide</a>
+* [**TOURS GUIDE**](href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Tours%20Guide%20Page.pdf)
 
-• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Gallery%20Page.pdf">Gallery</a>
+* [**GALLERY**](href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Gallery%20Page.pdf)
 
-• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Shop%20Page.pdf">Shop</a>
+* [**SHOP**](href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Shop%20Page.pdf)
 
-• <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Get%20in%20Touch.pdf">Get in touch...</a>
+* [**GET IN TOUCH...**](href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Get%20in%20Touch.pdf)
 
 
-***Features***
+## Features
 
 
 All pages consist a responsive navigation bar with a logo (motorcycle related icon) located in right-top corner.
@@ -91,7 +82,7 @@ link the user to the website owner social media pages (the size and colour of so
 a hover function).
 
 
-**Home Page**
+#### Home
 
 
 The Home Page features a motorcycle-related image (background) which was converted to grayscale to grab attention and to 
@@ -101,14 +92,14 @@ voucher to be used in the Shop section.
 
 
 
-**About Us... Page**
+#### About Us...
 
 
 The About Us... Page has paragraphs added which contain a brief description of Scotland and interesting places to visit.
 
 
 
-**Tours Guide Page**
+#### Tours Guide
 
 
 The Tours Guide gives the user an opportunity to access the following information:
@@ -123,7 +114,7 @@ The Tours Guide gives the user an opportunity to access the following informatio
 
 
 
-**Gallery Page**
+#### Gallery
 
 
 The Gallery Page consists several images laid out in columns. The number of columns depend on the type of the device. 
@@ -131,7 +122,7 @@ Each photo has a caption and can be clicked to open in a modal window. The user 
 
 
 
-**Shop Page**
+### Shop
 
 
 The Shop Page gives the user an opportunity to purchase a range of motorcycle products. I used a 'card' component to create the Shop section.
@@ -151,7 +142,7 @@ Each card has the following elements:
 
 
 
-**Get in touch… Page**
+#### Get in touch...
 
 
 The Get in touch page features a simple contact from which consists the following elements:
