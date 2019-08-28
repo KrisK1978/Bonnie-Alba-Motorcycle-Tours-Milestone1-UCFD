@@ -11,6 +11,7 @@ Developer course provided by [**Code Institute**](https://codeinstitute.net/).
 
 The website live demo can be found [**_here_**](https://krisk1978.github.io/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/).
 
+<a
 
 ## UX
 
@@ -18,8 +19,8 @@ The website live demo can be found [**_here_**](https://krisk1978.github.io/Bonn
 
 
 The main purpose for creating Bonnie Alba Motorcycle Tours was to provide helpful information to 
-a specific **user/audience**, in this case motorcycle enthusiasts who would like to tour Scotland on a motorcycle, 
-but also to any website visitor who wants to learn more about interesting places in Scotland. 
+a specific **user/audience**, in this case motorcycle enthusiasts who would like to tour Scotland on a motorcycle, but also to 
+any website visitor who wants to learn more about interesting places in Scotland. 
 This website is designed to be easy to navigate and will frequently be updated in order to keep users coming back for more information. 
 
 
@@ -75,9 +76,12 @@ I have used Balsamiq to create wireframe mockups to represent the project’s st
 
 All pages consist a **responsive navigation bar** with a **logo** (motorcycle related icon) located in right-top corner.
 When users click on the logo it will return them to the **Home** page (applied in both English and Polish version).
+
 Each page has a different background-image and an active language-button located in navbar which once tapped will 
 transfer the user to Polish version of the website. This will give the non-English speaker users an opportunity to 
-access information in their native language. The footer has a **copyright information** and **social media** icons which will 
+access information in their native language. 
+
+The footer has a **copyright information** and **social media** icons which will 
 link the user to the website owner social media pages (the size and colour of social media icons will change when using 
 a hover function).
 
@@ -119,7 +123,8 @@ voucher to be used in the Shop section.
 
 *The Gallery* page consists several images laid out in columns. The number of columns depend on the type of the device. 
 Each photo has a caption and can be clicked to open in a modal window. The user can view the content in a bigger size 
-and the image can be closed by using **'X'** sign. The image has a grayscale filter applied and the image scale changes when using a **hover** function.
+and the image can be closed by using **'X'** sign. The image has a grayscale filter applied and the image scale changes 
+when using a **hover** function.
 
 
 
@@ -137,7 +142,7 @@ Each card has the following elements:
 
 *   product description
 
-*	**'Add to Cart'** & **'Remove from Cart'** buttons (the button's background changes when using a hover function)
+*	**'Add to Cart'** & **'Remove from Cart'** (buttons the button's background changes when using a hover function)
 
 
 
@@ -169,15 +174,15 @@ below the contact form with the Bonnie Alba Motorcycle Tours contact details.
 
 In the future, I would like to improve the following sections of the website to make it more attractive and user-friendly:
 
-*	upgrading the content of About Us section by adding more information
+*	upgrading the content of *About Us* page by adding more information
 
-*	updating the Tours Guide section by adding more tours e.g. enhanced description & detailed maps
+*	updating the *Tours Guide* page by adding more tours e.g. enhanced description & detailed maps
 
-*	upgrading the Gallery section by adding video clips related to Scotland’s best motorcycle routes
+*	upgrading the *Gallery* page by adding video clips related to Scotland’s best motorcycle routes
 
-*	adding more products to the Shop section and apply a specific JavaScript function which will automatically calculate the total amount of the purchased items (Subtotal, Tax, Shipping Cost & Total amount)
+*	adding more products to the *Shop* page and apply a specific JavaScript function which will automatically calculate the total amount of the purchased items (Subtotal, Tax, Shipping Cost & Total amount)
 
-*	adding GDPR complaint pop-up screen to Get in touch section
+*	adding GDPR complaint pop-up screen to *Get in touch...* page
 
 
 
@@ -216,11 +221,22 @@ More information about the project testing can be found in [**TESTING.md**](http
 
 ## Deployment
 
+Initially the project was developed using the [**Cloud9**](href=”https://c9.io/login) IDE but due to a long-planned platform upgrade it had been migrated to a new 
+[**Amazon Website Services**](https://aws.amazon.com/console/) account.
 
-The website is hosted using GitHub pages and can be deployed directly from the 
-[**master branch**](https://github.com/KrisK1978/milestone-project1-bamt-ucfd).
-Initially the project was developed using the <a href=”https://c9.io/login”>Cloud9</a> 
-IDE but due to a long-planned platform upgrade it had been migrated to a new Amazon Website Services account.
+The website can be deployed to GitHub Pages from its [**GitHub***](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD) repository using the following **step by step**
+procedure:
+
+**a)** Log into [**GitHub**](https://github.com/login).
+
+**b)** Go to the list of [**repositories**](https://github.com/KrisK1978?tab=repositories) and select [**Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD).
+
+**c)** Select [**Settings**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/settings) from the menu items located near the top of the page.
+
+**d)** Scroll down to the **GitHub Pages** section.
+
+**e)** Go to **Source** and click on a drop-down menu, then select **Master Branch**.
+
 
 
 ## Credits
@@ -258,8 +274,8 @@ The photos used in the project, including background and gallery images, were ta
 
 
 I received a motivation and inspiration for this project from my own and my friend's riding experience. I am a motorcycle enthusiast and 
-I had a chance to visit most beautiful places in Scotland. I thought it would be good to share my experience with others who 
-are planning to visit Scotland on the motorbike but would need some practical advice. 
+I had a chance to visit most beautiful places in Scotland. I thought it would be good to share my experience with others who are planning 
+to visit Scotland on the motorbike but would need some practical advice. 
 
 I also received a very useful advice and support from my mentor [**Simen Daehlin**](https://github.com/Eventyret) who guided me through the project phases.  
 
