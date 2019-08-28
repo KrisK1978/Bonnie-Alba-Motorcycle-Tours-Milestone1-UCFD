@@ -1,16 +1,16 @@
-***Testing Details of Bonnie Alba Motorcycle Tours Website***
+# Testing Details of Bonnie Alba Motorcycle Tours Website
 
         
-***1. Project's documentation:***
+## 1. Project's documentation:
 
 
-- <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md">README.md-main file</a>
+* [**README.md**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md) file
 
-- <a href="https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD">View project's structure/elements in GitHub</a>
+* [**View project's structure/elements in GitHub**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD")
 
 
 
-***2. Project's Validation***
+## 2. Project's Validation
 
 
 
@@ -18,92 +18,88 @@ The following tools have been used to validate specific content of the project:
 
 
 
-•   <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">W3C CSS validation- used to check Cascading Style Sheets (CSS);</a> 
+•   [**W3C CSS validation- used to check Cascading Style Sheets (CSS)**](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-•   <a href="https://validator.w3.org/#validate_by_input">W3C Markup Validation - this validator checks the markup validity of Web documents</a>;
-
-
-
-
-***3. Testing - using Client Stories:***
+•   [**W3C Markup Validation - this validator checks the markup validity of Web documents**](https://validator.w3.org/#validate_by_input)
 
 
 
-• website visitor can smoothly go through the pages using a user-friendly navbar;
+
+## 3. Testing - using User's Stories:
+
+
+
+* website visitor can smoothly go through the pages using a user-friendly navbar;
         
 
-• the visitor can easily move to a Polish/English version of the website using an action button;
+* the visitor can easily move to a Polish/English version of the website using an action button;
 
 
-• the website content is not overloaded with a high volume of information, so the visitor can only find what is looking for;
-
-
-
-
-***4. Testing - using client stories from UX section of README.md***
-
-
-
-*1. As a new visitor, I am expecting to find the website user-friendly and easy to navigate:*
-
-
--  the navigation bar is easy to locate, and the visitor knows exactly where the information can be found
-
-
--  the logo (motorcycle related icon) once tapped will always lead to the Home Page (Strona główna – polish version)
-
-
--  the language (PL / EN) call to action button will lead to either English or Polish version of the website
+* the website content is not overloaded with a high volume of information, so the visitor can only find what is looking for;
 
 
 
 
-*2.	As a new visitor, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit:*
-
-
--  the About Us… (O Nas…) page provides interesting and useful information to the visitor
-
-
--  the Tours Guide (Przewodnik) page clearly explains what places are worth to visit, and how long the journey would take; there is also a map which will help the visitor to plan the trip thoroughly
+## 4. Testing - using user's stories from UX section of README.md:
 
 
 
-
-*3.	As a new visitor and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process:*
-
-
--  the Shop (Sklep) page provides a clear description of the products available for purchase with a straightforward check-out process
+### 4.1 As a new **visitor**, I am expecting to find the website user-friendly and easy to navigate:
 
 
+* the navigation bar is easy to locate, and the visitor knows exactly where the information can be found
 
 
-*4.	As a new visitor, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated:*
+* the logo (motorcycle related icon) once tapped will always lead to the **Home** page (Strona główna – polish version)
 
 
--  the Get in touch (Skontaktuj się z nami…)  page offers a clear and easy to complete contact form, it also informs the visitor that the form would need to be fully completed before it can be sent
+* the language (PL / EN) call to action button will lead to either **English** or **Polish** version of the website
+
+
+
+### 4.2	As a new **visitor**, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit:
+
+
+* the **About Us… (O Nas…)** page provides interesting and useful information to the visitor
+
+
+* the **Tours Guide (Przewodnik)** page clearly explains what places are worth to visit, and how long the journey would take; there is also a map which will help the visitor to plan the trip thoroughly
+
+
+
+### 4.3.	As a new **visitor** and potential  , I want to have an easy access to the products offered in the Shop and fully understand the purchasing process:
+
+
+* the **Shop (Sklep)** page provides a clear description of the products available for purchase with a straightforward check-out process
+
+
+
+### 4.4	As a new **visitor**, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated:
+
+
+* the **Get in touch (Skontaktuj się z nami…)**  page offers a clear and easy to complete contact form, it also informs the visitor that the form would need to be fully completed before it can be sent
    e.g. there will be an error noting if the invalid email address is submitted
 
 
 
-
-*5.	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.:*
-
-
--  the footer contains the social media icons e.g. LinkedIn, GitHub (both active), and once tapped the visitor would be redirected to external websites 
+### 4.5	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.:
 
 
-
-***5. Testing the functionality of all elements on every page – Manual Testing***
+* the footer contains the social media icons e.g. **LinkedIn, GitHub** (both active), and once tapped the visitor would be redirected to external websites 
 
 
 
-**5.1 Home Page**
+## 5. Testing the functionality of all elements on every page – Manual Testing
+
+
+
+### 5.1 Home Page
 
 
 Testing steps:
 
 
-a)	**Navigation Bar** - the code is the same on all HTML pages and was tested accordingly
+a)	*Navigation Bar* - the code is the same on all HTML pages and was tested accordingly
 
 
 -	Home Page entered on a desktop

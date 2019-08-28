@@ -261,6 +261,8 @@ f) Type the **git clone** command and paste the URL you already copied in point 
 g) Press **Enter** and your local clone will be created. 
 
 
+
+
 More information about cloning a repository and troubleshooting can be found [**here**](https://help.github.com/en/articles/cloning-a-repository)
 
 
