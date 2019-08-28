@@ -61,13 +61,13 @@ I have used Balsamiq to create wireframe mockups to represent the project’s st
 
 * [**ABOUT US...**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/About%20Us%20Page.pdf)
 
-* [**TOURS GUIDE**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Tours%20Guide%20Page.pdf)
+* [**TOURS GUIDE**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Tours%20Guide%20Page.pdf)
 
-* [**GALLERY**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Gallery%20Page.pdf)
+* [**GALLERY**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Gallery%20Page.pdf)
 
-* [**SHOP**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Shop%20Page.pdf)
+* [**SHOP**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Shop%20Page.pdf)
 
-* [**GET IN TOUCH...**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Get%20in%20Touch.pdf)
+* [**GET IN TOUCH...**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/wireframes/Get%20in%20Touch.pdf)
 
 
 ## Features
@@ -226,13 +226,13 @@ IDE but due to a long-planned platform upgrade it had been migrated to a new Ama
 ## Credits
 
 
-## Content
+### Content
 
 
-The content in the pages was written by me. 
+The content/text of the website sections was written by me.
 
 
-## Media
+### Media
 
 
 The photos used in the project, including background and gallery images, were taken from:
