@@ -4,7 +4,7 @@
 ### 1. Project's documentation:
 
 
-* [**README.md**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md) file
+* [**README.md**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md) file
 
 * [**View project's structure/elements in GitHub**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD")
 
@@ -44,7 +44,7 @@ The following tools have been used to validate specific content of the project:
 
 
 
-#### 4.1 As a new **visitor**, I am expecting to find the website user-friendly and easy to navigate:
+### 4.1 As a new **visitor**, I am expecting to find the website user-friendly and easy to navigate:
 
 
 * the navigation bar is easy to locate, and the visitor knows exactly where the information can be found
@@ -57,7 +57,7 @@ The following tools have been used to validate specific content of the project:
 
 
 
-#### 4.2 As a new **visitor**, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit:
+### 4.2 As a new **visitor**, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit:
 
 
 * the **About Us… (O Nas…)** page provides interesting and useful information to the visitor
@@ -67,14 +67,14 @@ The following tools have been used to validate specific content of the project:
 
 
 
-#### 4.3. As a new **visitor** and potential  , I want to have an easy access to the products offered in the Shop and fully understand the purchasing process:
+### 4.3. As a new **visitor** and potential  , I want to have an easy access to the products offered in the Shop and fully understand the purchasing process:
 
 
 * the **Shop (Sklep)** page provides a clear description of the products available for purchase with a straightforward check-out process
 
 
 
-#### 4.4 As a new **visitor**, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated:
+### 4.4 As a new **visitor**, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated:
 
 
 * the **Get in touch (Skontaktuj się z nami…)**  page offers a clear and easy to complete contact form, it also informs the visitor that the form would need to be fully completed before it can be sent
@@ -82,7 +82,7 @@ The following tools have been used to validate specific content of the project:
 
 
 
-#### 4.5 As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.:
+### 4.5 As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.:
 
 
 * the footer contains the social media icons e.g. **LinkedIn, GitHub** (both active), and once tapped the visitor would be redirected to external websites 
@@ -93,10 +93,10 @@ The following tools have been used to validate specific content of the project:
 
 
 
-#### 5.1 Home Page
+### 5.1 Home Page
 
 
-##### Testing steps:
+#### Testing steps:
 
 
 **a)**	**Navigation Bar** - the code is the same on all HTML pages and was tested accordingly
@@ -136,124 +136,125 @@ The following tools have been used to validate specific content of the project:
     
     
     
-#### 5.2 About Us…
+### 5.2 About Us…
 
 
 
-##### Testing steps:
+#### Testing steps:
 
 
-a)	**Paragraphs** 
+**a)**	**Paragraphs** 
 
 
--	Developer Tools used to check the responsiveness of the text and font-size changing on different type of devices (Android phone, iPhone, iPad)
-
-
-
-**5.3 Tours Guide**
+* _Developer Tools used to check the responsiveness of the text and font-size changing on different type of devices (Android phone, iPhone, iPad)_
 
 
 
-Testing steps:
+### 5.3 Tours Guide
+
+
+
+#### Testing steps:
 	
 	
-a)	**Paragraph**
+**a)**	**Paragraph**
 
 
--	Developer Tools used to check the responsiveness of the website on different type of devices (Android phone, iPhone, iPad)
+* _Developer Tools used to check the responsiveness of the website on different type of devices (Android phone, iPhone, iPad)_
 
 
--	Clicked on the maps to check if they can be enlarged and opened in a separate window
+* _Clicked on the maps to check if they can be enlarged and opened in a separate window_
 
 
-**5.4 Gallery**
+### 5.4 Gallery
 
 
 
-Testing steps:
+#### Testing steps:
 	
 	
-a)	**Paragraph**
+**a)**	**Paragraph**
     
     
--	Developer Tools used to check the responsiveness of the website on different type of devices (Android phone, iPhone, iPad)
+* _Developer Tools used to check the responsiveness of the website on different type of devices (Android phone, iPhone, iPad)_
 
 
 
-b)	**Images**
+**b)**	**Images**
 
 
--	Checked the functionality of image filter and scale-transform (the colour of the individual image changes when using the hover element)
-
-
-
-c)	**Fancybox**
-
-
--	Checked the Fancybox functionality by clicking on the individual images
-
-
--	Testing the images responsiveness by using Developer Tools to check how they respond when using different type of devices 
+* _Checked the functionality of image filter and scale-transform (the colour of the individual image changes when using the hover element)_
 
 
 
-**5.5 Shop**
+**c)**	**Fancybox**
+
+
+* _Checked the Fancybox functionality by clicking on the individual images_
+
+
+* _Testing the images responsiveness by using Developer Tools to check how they respond when using different type of devices_ 
 
 
 
-Testing steps:
+### 5.5 Shop
+
+
+
+#### Testing steps:
 	
 	
-a)	**Card – including product image, name, description & price**
+**a)**	**Card – including product image, name, description & price**
 
 
--	Developer Tools used to check the responsiveness of the card on different type of devices (Android phone, iPhone, iPad)
-
-
-
-b)	**Buttons – Add to Cart & Remove from Cart**
-
-
--	Checked the functionality of both buttons using hover (the background and font-colour change on the individual button)
+* _Developer Tools used to check the responsiveness of the card on different type of devices (Android phone, iPhone, iPad)_
 
 
 
-**5.6 Get in touch - Contact Form**
+**b)**	**Buttons – Add to Cart & Remove from Cart**
+
+
+* _Checked the functionality of both buttons using hover (the background and font-colour change on the individual button)_
 
 
 
-Testing steps:
+### 5.6 Get in touch - Contact Form
+
+
+
+#### Testing steps:
 	
 	
-a)	**Form Group & Form Control**
+**a)**	**Form Group & Form Control**
 
 
--	Developer Tools used to check the compatibility and responsiveness of the contact form & address card, the website was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices (Android phone, iPhone, iPad)
+*	_Developer Tools used to check the compatibility and responsiveness of the contact form & address card, the website was tested across multiple browsers (Chrome, Safari, 
+     Internet Explorer, FireFox) and on multiple mobile devices (Android phone, iPhone, iPad)_
 
 
     
-b)	**Send button**
+**b)**	**Send button**
 
 
--	Checked the functionality of the 'Send' button using hover (the background and font-colour change)
+* _Checked the functionality of the **'Send'** button using hover (the background and font-colour change)_
 
         
--   Tried to submit a blank form and received an error message about the requested fields appeared
+* _Tried to submit a blank form and received an error message about the requested fields appeared_
 
         
--   Tried to submit the form with an invalid email address and received the error message as expeceted
+* _Tried to submit the form with an invalid email address and received the error message as expeceted_
 
 
 
 
-***Additional Testing***
+### Additional Testing
 
 
-*The website was tested by my fellow Code Institute students, family members and 
+**_The website was tested by my fellow Code Institute students, family members and 
 friends. I asked to review the content of the website and had been advised the 
 font-size and font-colour could be different (changes had been applied as 
-suggested).*
+suggested)._**
 
 
 
-*The testing was also carried out on the Polish version of the website.*
+### The testing was also carried out on the Polish version of the website.
