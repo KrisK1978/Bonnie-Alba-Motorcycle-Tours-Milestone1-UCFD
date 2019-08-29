@@ -250,10 +250,10 @@ The following tools have been used to validate specific content of the project:
 ### Additional Testing
 
 
-**_The website was tested by my fellow Code Institute students, family members and 
+_The website was tested by my fellow Code Institute students, family members and 
 friends. I asked to review the content of the website and had been advised the 
 font-size and font-colour could be different (changes had been applied as 
-suggested)._**
+suggested)._
 
 
 
