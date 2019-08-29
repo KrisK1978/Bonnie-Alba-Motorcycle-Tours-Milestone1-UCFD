@@ -4,7 +4,7 @@
 ### 1. Project's documentation:
 
 
-* [**README.md**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md) file
+* [**README.md file**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md)
 
 * [**View project's structure/elements in GitHub**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD")
 

@@ -242,6 +242,7 @@ f) When **Master Branch** is selected the page is automatically refreshed and th
 g) The link to the deployed website can be retrieved when scrolled back down to the **GitHub Pages** section.
 
 
+
 ### How to run this project locally? 
 
 The project can be cloned from **GitHub** using the folowing procedure:
@@ -273,6 +274,7 @@ More information about cloning a repository and troubleshooting can be found [**
 
 
 The content/text of the website sections was written by me.
+
 
 
 ### Media
