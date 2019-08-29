@@ -1,7 +1,7 @@
-# Testing Details of Bonnie Alba Motorcycle Tours Website
+## Testing Details of Bonnie Alba Motorcycle Tours Website
 
         
-## 1. Project's documentation:
+### 1. Project's documentation:
 
 
 * [**README.md**](href=https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/blob/master/README.md) file
@@ -10,7 +10,7 @@
 
 
 
-## 2. Project's Validation
+### 2. Project's Validation
 
 
 
@@ -18,14 +18,14 @@ The following tools have been used to validate specific content of the project:
 
 
 
-•   [**W3C CSS validation- used to check Cascading Style Sheets (CSS)**](https://jigsaw.w3.org/css-validator/#validate_by_input)
+*   [**W3C CSS validation- used to check Cascading Style Sheets (CSS)**](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-•   [**W3C Markup Validation - this validator checks the markup validity of Web documents**](https://validator.w3.org/#validate_by_input)
-
-
+*   [**W3C Markup Validation - this validator checks the markup validity of Web documents**](https://validator.w3.org/#validate_by_input)
 
 
-## 3. Testing - using User's Stories:
+
+
+### 3. Testing - using User's Stories:
 
 
 
@@ -40,11 +40,11 @@ The following tools have been used to validate specific content of the project:
 
 
 
-## 4. Testing - using user's stories from UX section of README.md:
+### 4. Testing - using user's stories from UX section of README.md:
 
 
 
-### 4.1 As a new **visitor**, I am expecting to find the website user-friendly and easy to navigate:
+#### 4.1 As a new **visitor**, I am expecting to find the website user-friendly and easy to navigate:
 
 
 * the navigation bar is easy to locate, and the visitor knows exactly where the information can be found
@@ -57,7 +57,7 @@ The following tools have been used to validate specific content of the project:
 
 
 
-### 4.2	As a new **visitor**, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit:
+#### 4.2 As a new **visitor**, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit:
 
 
 * the **About Us… (O Nas…)** page provides interesting and useful information to the visitor
@@ -67,14 +67,14 @@ The following tools have been used to validate specific content of the project:
 
 
 
-### 4.3.	As a new **visitor** and potential  , I want to have an easy access to the products offered in the Shop and fully understand the purchasing process:
+#### 4.3. As a new **visitor** and potential  , I want to have an easy access to the products offered in the Shop and fully understand the purchasing process:
 
 
 * the **Shop (Sklep)** page provides a clear description of the products available for purchase with a straightforward check-out process
 
 
 
-### 4.4	As a new **visitor**, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated:
+#### 4.4 As a new **visitor**, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated:
 
 
 * the **Get in touch (Skontaktuj się z nami…)**  page offers a clear and easy to complete contact form, it also informs the visitor that the form would need to be fully completed before it can be sent
@@ -82,65 +82,65 @@ The following tools have been used to validate specific content of the project:
 
 
 
-### 4.5	As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.:
+#### 4.5 As a new visitor, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc.:
 
 
 * the footer contains the social media icons e.g. **LinkedIn, GitHub** (both active), and once tapped the visitor would be redirected to external websites 
 
 
 
-## 5. Testing the functionality of all elements on every page – Manual Testing
+### 5. Testing the functionality of all elements on every page – Manual Testing
 
 
 
-### 5.1 Home Page
+#### 5.1 Home Page
 
 
-Testing steps:
+##### Testing steps:
 
 
-a)	*Navigation Bar* - the code is the same on all HTML pages and was tested accordingly
+**a)**	**Navigation Bar** - the code is the same on all HTML pages and was tested accordingly
 
 
--	Home Page entered on a desktop
+*  _Home Page entered on a desktop_
 
 
--	Checked each item on Navigation menu to confirm the redirection to the correct page
+* _Checked each item on Navigation menu to confirm the redirection to the correct page_
 
 
--	Developer Tools used to check the responsiveness of the website using different type of devices (Android phone, iPhone, iPad)
+* _Developer Tools used to check the responsiveness of the website using different type of devices (Android phone, iPhone, iPad)_
 
 
--	Checked the functionality of the Logo (motorcycle related icon) to confirm it would redirect to the Home Page
+* _Checked the functionality of the Logo (motorcycle related icon) to confirm it would redirect to the Home Page_
 
 
 
 
-b)	**Modal**
+**b)**	**Modal**
 
 
--	Clicked on ‘Sign Up’ action button to check the functionality of modal and to 
-    Confirm there is a ‘Sign Up form’ available to submit
+* _Clicked on **‘Sign Up’** action button to check the functionality of modal and to 
+    Confirm there is a ‘Sign Up form’ available to submit_
  
 
--	Checked the close ‘X’ button to prove the functionality
+* _Checked the close **‘X’** button to prove the functionality_
         
 
     
     
-c)	**Footer** - the code is the same on all HTML pages and was tested accordingly
+**c)**	**Footer** - the code is the same on all HTML pages and was tested accordingly
 
 
--	Clicked on the social media icons located on the footer, check if the icons are active and confirm the hover’s functionality 
+* _Clicked on the social media icons located on the footer, check if the icons are active and confirm the hover’s functionality_
 
     
     
     
-**5.2 About Us…**
+#### 5.2 About Us…
 
 
 
-Testing steps:
+##### Testing steps:
 
 
 a)	**Paragraphs** 
