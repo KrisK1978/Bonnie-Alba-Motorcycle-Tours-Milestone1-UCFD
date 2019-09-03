@@ -269,7 +269,6 @@ body {
     width: 180px;
     max-width: 100%;
     cursor: pointer;
-    align-items: center;
     -webkit-transition: 0.6s;
     -o-transition: 0.6s;
     transition: 0.6s;

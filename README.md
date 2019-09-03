@@ -39,17 +39,17 @@ This website is designed to be easy to navigate and will frequently be updated i
 #### 1.	User’s (website visitor) expectations:
 
 
--	As a new **visitor**, I am expecting to find the website user-friendly and easy to navigate;
+*	As a new **visitor**, I am expecting to find the website user-friendly and easy to navigate;
 
--	As a new **visitor**, I am looking to find the information efficiently;
+*	As a new **visitor**, I am looking to find the information efficiently;
 
--	As a new **visitor**, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit;
+*	As a new **visitor**, I want to learn more about the country I am planning to visit and get some specific details about interesting places to visit;
 
--	As a new **visitor** and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process;
+*	As a new **visitor** and potential client, I want to have an easy access to the products offered in the Shop and fully understand the purchasing process;
 
--	As a new **visitor**, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated;
+*	As a new **visitor**, I am expecting a straightforward contact form, so getting in touch with the website host would not be complicated;
 
--	As a new **visitor**, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc. 
+*	As a new **visitor**, I am hoping to stay connected with the website host using the available social media, so I can be up to date with the news, planned venues, etc. 
 
 
 ### Wireframes
@@ -191,25 +191,25 @@ In the future, I would like to improve the following sections of the website to 
 
 The following technologies have been used in the project completion process:
 
-•   **HTML** which defines the properties and behaviours of web page content  
+*   **HTML** which defines the properties and behaviours of web page content  
 
-•   **CSS** which describes how HTML elements should be displayed on the screen 
+*   **CSS** which describes how HTML elements should be displayed on the screen 
 
-•   [**Bootstrap**](https://getbootstrap.com/) *to make the website responsive and user-friendly*
+*   [**Bootstrap**](https://getbootstrap.com/) *to make the website responsive and user-friendly*
 
-•   [**Font Awesome**](https://cdnjs.com/libraries/font-awesome) *to control the way the icon looks*  
+*   [**Font Awesome**](https://cdnjs.com/libraries/font-awesome) *to control the way the icon looks*  
 
-•   [**Google Fonts**](https://fonts.google.com/) *responsible for styling the website fonts*
+*   [**Google Fonts**](https://fonts.google.com/) *responsible for styling the website fonts*
 
-•   [**Autoprefixer**](https://autoprefixer.github.io/) *to add vendor prefixes to CSS and make sure the CSS code is valid for all browsers*
+*   [**Autoprefixer**](https://autoprefixer.github.io/) *to add vendor prefixes to CSS and make sure the CSS code is valid for all browsers*
 
-•   [**Fancybox**](https://fancyapps.com/fancybox/3/) *used for a gallery modal popup to view gallery images*
+*   [**Fancybox**](https://fancyapps.com/fancybox/3/) *used for a gallery modal popup to view gallery images*
 
-•   [**jQuery**](https://jquery.com/download/) *to standardize and simplify interactions between HTML elements and JavaScript code*
+*   [**jQuery**](https://jquery.com/download/) *to standardize and simplify interactions between HTML elements and JavaScript code*
 
-•   [**Popper.js**](https://cdnjs.com/libraries/popper.js) *to calculate the position of an element and required for the responsive navbar*
+*   [**Popper.js**](https://cdnjs.com/libraries/popper.js) *to calculate the position of an element and required for the responsive navbar*
 
-•   [**Favicon**](https://www.favicon-generator.org) *to represent the website*
+*   [**Favicon**](https://www.favicon-generator.org) *to represent the website*
 
 
 ## Project Testing
