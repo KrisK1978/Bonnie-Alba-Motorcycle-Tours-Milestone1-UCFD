@@ -177,7 +177,7 @@ body {
     background-size: cover;
     margin-bottom: 0;
     width: 99vw;
-    height: 99vh;
+    height: 99%;
     z-index: 1;
 }
 
@@ -205,9 +205,9 @@ body {
     opacity: 0.8;
 }
 
-.tour1,
+.tour,
 .description,
-.tour-map1    {
+.tour-map    {
     font-size: 1.2rem;
     font-weight: bold;
     color: #2f4f4f;
@@ -218,8 +218,7 @@ body {
     opacity: 0.8;
 }
 
-.details1,
-.details2 {
+.details {
     font-weight: bold;
     color: #ff4500; 
     padding: 10px;
