@@ -224,7 +224,7 @@ More information about the project testing can be found in [**TESTING.md**](http
 Initially the project was developed using the [**Cloud9**](href=https://c9.io/login) IDE but due to a long-planned platform upgrade it had been migrated and completed using a new 
 [**Amazon Website Services**](https://aws.amazon.com/console/) account.
 
-The website can be deployed to GitHub Pages from its [**GitHub***](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD) repository using the following **step by step**
+The website can be deployed to GitHub Pages from its [**GitHub**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD) repository using the following **step by step**
 procedure:
 
 a) Log into [**GitHub**](https://github.com/login).
