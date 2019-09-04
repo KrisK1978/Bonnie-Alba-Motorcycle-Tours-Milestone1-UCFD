@@ -221,7 +221,7 @@ More information about the project testing can be found in [**TESTING.md**](http
 
 ## Deployment
 
-Initially the project was developed using the [**Cloud9**](href=https://c9.io/login) IDE but due to a long-planned platform upgrade it had been migrated and completed in using a new 
+Initially the project was developed using the [**Cloud9**](href=https://c9.io/login) IDE but due to a long-planned platform upgrade it had been migrated and completed using a new 
 [**Amazon Website Services**](https://aws.amazon.com/console/) account.
 
 The website can be deployed to GitHub Pages from its [**GitHub***](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD) repository using the following **step by step**
@@ -229,13 +229,13 @@ procedure:
 
 a) Log into [**GitHub**](https://github.com/login).
 
-b) Go to the list of [**repositories**](https://github.com/KrisK1978?tab=repositories) and select [**Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD).
+b) Select **Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD** from the list of **repositories** .
 
-c) Select [**Settings**](https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD/settings) from the menu items located near the top of the page.
+c) Select **Settings** from the menu items located near the top of the page.
 
 d) Scroll down to the **GitHub Pages** section.
 
-e) Go to **Source** and click on a drop-down menu, then select **Master Branch**.
+e) Click on a drop-down menu located under the **Source** and select **Master Branch**.
 
 f) When **Master Branch** is selected the page is automatically refreshed and the website is deployed. 
 
@@ -251,9 +251,9 @@ a) Follow the link to the [**GitHub repository project**](https://github.com/Kri
 
 b) Click on **Clone or download** tab located under the repository name.
 
-c) In the **Clone with HTTPs section**, copy the clone URL for the repository.
+c) In the **Clone with HTTPs section**, copy the clone URL '''https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD.git''' for the repository.
 
-d) Go to your local IDE and open a new **Git Bash** terminal.
+d) Using a command-line local IDE and open a new **Git Bash** terminal.
 
 e) Change the current working directory to the location where you want the cloned directory to be made.
 
