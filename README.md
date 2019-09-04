@@ -251,9 +251,9 @@ a) Follow the link to the [**GitHub repository project**](https://github.com/Kri
 
 b) Click on **Clone or download** tab located under the repository name.
 
-c) In the **Clone with HTTPs section**, copy the clone URL '''https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD.git''' for the repository.
+c) In the **Clone with HTTPs section**, copy the clone URL ```https://github.com/KrisK1978/Bonnie-Alba-Motorcycle-Tours-Milestone1-UCFD.git``` for the repository.
 
-d) Using a command-line local IDE and open a new **Git Bash** terminal.
+d) Open a **new command line - terminal (bash)** in your local IDE.
 
 e) Change the current working directory to the location where you want the cloned directory to be made.
 
